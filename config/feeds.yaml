@@ -1,0 +1,40 @@
+feeds:
+  - id: ccr
+    name: Communication Research
+    url: "https://journals.sagepub.com/action/showFeed?type=etoc&jc=crxa&feed=rss"
+    tags: ["academic", "communication"]
+
+  - id: new_media_society
+    name: New Media & Society
+    url: "https://journals.sagepub.com/action/showFeed?ui=0&mi=3fnskx&ai=pih&jc=nmsa&type=etoc&feed=rss"
+    tags: ["academic", "communication"]
+
+  - id: ijnpr
+    name: International Journal of Press/Politics
+    url: "https://journals.sagepub.com/action/showFeed?jc=hppa&type=etoc&feed=rss"
+    tags: ["academic", "communication"]
+
+  - id: jasa
+    name: Journal of the Association for Information Science & Technology (JASIST)
+    url: "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&jc=23301643&feed=rss"
+    tags: ["academic", "information_science"]
+
+  - id: asr
+    name: American Sociological Review
+    url: "https://journals.sagepub.com/action/showFeed?jc=asra&type=etoc&feed=rss"
+    tags: ["academic", "sociology"]
+
+  - id: isr
+    name: Information Systems Research
+    url: "https://pubsonline.informs.org/action/showFeed?type=etoc&jc=isre&feed=rss"
+    tags: ["academic", "information_science"]
+
+  - id: misq
+    name: MIS Quarterly
+    url: "https://misq.umn.edu/index.php?format=feed&type=rss"
+    tags: ["academic", "information_science"]
+
+  - id: chb
+    name: Computers in Human Behavior
+    url: "https://www.sciencedirect.com/journal/computers-in-human-behavior/latest?dgcid=rss_sd_all"
+    tags: ["academic", "communication", "psychology"]

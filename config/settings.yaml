@@ -1,0 +1,20 @@
+academic:
+  days_window: 30     # 只关注 30 天内的新文章
+  max_items: 200      # 最多抓 200 条（期刊 RSS 通常几十而已）
+
+personalization:
+  enable: true
+
+  # 你可以把你的研究兴趣写得更细
+  user_profile: |
+    我是一名传播学与信息学方向的博士生，研究数字平台治理、隐私与监控、社交媒体上的情绪与极化、算法与社会。
+    对以下内容特别感兴趣：
+    - 国家监控、平台治理、数据权力
+    - 社交媒体的情绪政治
+    - 数字民族主义、公众舆论、信息行为
+    - AI 与伦理、算法审计
+    - computational social science 方法
+
+  top_n: 12
+  max_candidates: 120
+  max_workers: 25
