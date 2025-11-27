@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2025-11-27 06:27
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2025-10-17 11:19:46+00:00
+    标题: Understanding the dimensions and violation of privacy in human–algorithm interaction: A self-determination theory perspective
+    标题: 理解人机交互中隐私的维度与侵犯：基于自我决定理论的视角
+    摘要: New Media & Society, Ahead of Print. <br />This study qualitatively investigates user responses to privacy invasion by social media algorithms and identifies the fundamental needs that drive the feelings of privacy violation. In-depth interviews with 17 users in the United States revealed that the ...
+    摘要: 《新媒体与社会》网络首发。<br />本研究定性调查了用户对社交媒体算法侵犯隐私的反应，并识别了驱动隐私侵犯感的根本需求。通过对美国17位用户的深度访谈发现...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251378019?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2025-10-10 02:28:57+00:00
+    标题: Internet shutdowns in Ethiopia: Discourses of digital sovereignty and information suppression amid political instability
+    标题: 埃塞俄比亚断网事件：政治动荡中的数字主权与信息压制话语
+    摘要: New Media & Society, Ahead of Print. <br />This study examines Ethiopia’s Internet shutdowns between 2005 and 2024, analyzing their frequency, motives, and socio-political impact within the discursive frames of digital sovereignty and Internet governance. By adopting a mixed-methods approach of ...
+    摘要: 《新媒体与社会》期刊网络首发。<br>本研究以数字主权与网络治理为论述框架，通过混合研究方法...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251378981?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2025-10-29 08:27:48+00:00
+    标题: Affect and prediction in short-video social media recommendation algorithm: TikTok and the missing half-second
+    标题: 短视频社交媒体推荐算法中的情感与预测：TikTok与缺失的半秒钟
+    摘要: New Media & Society, Ahead of Print. <br />This article examines the relationship between prediction and serendipity in the short-video social media platform TikTok, analyzing its recommendation algorithm through the lenses of affective and pragmatic turns in cognitive science. By looking at ...
+    摘要: 《新媒体与社会》期刊网络首发。<br />本文基于认知科学中的情感转向与实用主义转向视角，通过分析短视频社交媒体平台TikTok的推荐算法，探讨预测机制与意外发现之间的关联性。研究聚焦于...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251385086?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2025-11-21 07:15:24+00:00
+    标题: Moral disengagement and content moderation attitudes: Examining how apathy to online harms may disguise racially conservative beliefs
+    标题: 道德推脱与内容审核态度：探究对网络伤害的漠然如何掩饰种族保守观念
+    摘要: New Media & Society, Ahead of Print. <br />Social media users’ preferences for various content moderation interventions have been widely studied, but the implicit beliefs that connect to these preferences are less understood. Using a nationally representative survey data set, we investigate how ...
+    摘要: 《新媒体与社会》网络首发。<br/>社交媒体用户对各种内容审核干预措施的偏好已得到广泛研究，但与之相关的隐性认知机制尚未被充分理解。通过具有全国代表性的调查数据集，我们探究了...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251385923?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-21 12:39:33+00:00
+    标题: Ephemeral visibility and externally visible production: How algorithmic automation accelerates fans’ data work
+    标题: 短暂可见性与外部可见生产：算法自动化如何加速粉丝的数据劳动
+    摘要: New Media & Society, Ahead of Print. <br />Algorithmic rankings like streaming charts automatically convert users’ behavioral traces into orders of content, shaping their public visibility and motivating fans’ data work to promote favored cultural products on rankings. Building on social ...
+    摘要: 《新媒体与社会》期刊网络首发。<br>流媒体榜单等算法排名自动将用户行为痕迹转化为内容序列，塑造其公众可见度，并驱动粉丝通过数据劳动提升所推崇文化产品在榜单中的位次。基于社会...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251393480?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-24 12:52:42+00:00
+    标题: Navigating Instagram: Everyday resistance and the spatial dynamics of user practices
+    标题: 穿梭于Instagram：日常抵抗与用户实践的空间动态
+    摘要: New Media & Society, Ahead of Print. <br />Understanding power requires focusing not just on structures but also on people, especially as resistance becomes more complex. Extending De Certeau’s spatial framework of place, space, and subject positions to digital platforms, this article explores how ...
+    摘要: 《新媒体与社会》印刷前在线发布。<br />理解权力不仅需要关注结构，还需聚焦于人——尤其在抵抗形式日趋复杂的当下。本文通过将德塞托的空间、场所与主体位置分析框架延伸至数字平台，深入探讨...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251393923?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-24 10:19:12+00:00
+    标题: An algorithmic event: The celebration and critique of Spotify Wrapped
+    标题: 算法事件：对Spotify年度总结的颂扬与批判
+    摘要: New Media & Society, Ahead of Print. <br />As the year draws to a close, the marketing campaign ‘Spotify Wrapped’ invites users to share their personalised data story on social media. We draw on empirical insights from five creative workshops to examine how university students perceive and respond ...
+    摘要: 《新媒体与社会》期刊网络首发。<br>随着岁末来临，“Spotify年度总结”营销活动邀请用户在社交媒体分享个人数据故事。我们基于五个创意工作坊的实证研究发现，探讨大学生群体如何认知并回应...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251391301?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-03 09:59:19+00:00
+    标题: The personal is the (quasi-) political: The role of memes in critiquing and reproducing hegemonic narratives among reservists’ wives
+    标题: 个人即（准）政治：表情包在预备役军人妻子群体中对霸权叙事的批判与重塑作用
+    摘要: New Media & Society, Ahead of Print. <br />This study explores how digital humor functions as a form of critique in contexts where overt dissent is constrained. Focusing on memes shared by members of a Facebook support group for Israeli reservist soldiers’ wives during the 2023 Israel–Hamas war, ...
+    摘要: 《新媒体与社会》预印本。本研究探讨在公开异议受限的语境下，数字幽默如何作为社会批判的特殊形式发挥作用。通过对2023年以色列-哈马斯战争期间以色列预备役士兵妻子Facebook互助群组所分享网络迷因的分析...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251386384?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-18 05:53:34+00:00
+    标题: Everything to everyone, all at once: Digital human versions as objects of agency and surrender
+    标题: 万物皆备于我，瞬息可达：数字人化身——能动与臣服的双重客体
+    摘要: New Media & Society, Ahead of Print. <br />This article explores the sociocultural implications of digital human versions, drawing parallels between the self-objectification in Marina Abramović’s 1974 performanceRhythm 0and that in recent AI-driven digital version CarynAI, a chatbot run by a ...
+    摘要: 《新媒体与社会》期刊网络首发。<br />本文通过对比玛丽娜·阿布拉莫维奇1974年行为艺术《节奏0》中的自我客体化现象，与近期基于人工智能的数字分身CarynAI（一款由...驱动的聊天机器人）中的自我客体化实践，探讨数字分身技术的社会文化意涵。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251391735?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2025-11-17 08:00:00+00:00
+    标题: Can Crowdchecking Curb Misinformation? Evidence from Community Notes
+    标题: 众包核查能否遏制虚假信息？来自社区笔记的证据
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，印刷前在线发表。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1609?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-11-03 11:01:36+00:00
+    标题: Study on identity construction of affinity group from the perspective of interaction ritual chains: A textual analysis of the “TikTok Refugee” discourse on REDNOTE
+    标题: 互动仪式链视角下趣缘群体身份建构研究——基于小红书“抖音难民”话语的文本分析
+    摘要: New Media & Society, Ahead of Print. <br />This study examines how digital affinity groups construct collective identity in the context of the TikTok ban in the United States, which led to a large-scale migration of American users to the Chinese social media platform REDNOTE (Little Red Book). ...
+    摘要: 《新媒体与社会》期刊预印本。本研究探讨在美区TikTok禁令背景下，数字亲缘群体如何构建集体身份认同——该禁令促使美国用户大规模迁移至中国社交平台REDNOTE（小红书）。...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251378986?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-10-24 07:16:04+00:00
+    标题: Keep scrolling by/for yourself: Affective identity work in social media
+    标题: 继续刷屏，只为遇见自己：社交媒体中的情感身份构建
+    摘要: New Media & Society, Ahead of Print. <br />In this article, we explore how Instagram constitutes a site for affective disorientation and thus facilitates and conditions various processes of identity work. This study examines this process by shedding light on our own experiences of our relationship ...
+    摘要: 《新媒体与社会》期刊网络首发。<br />本文探讨了Instagram如何成为情感迷失的场域，并由此促进和制约身份认同建构的多种过程。本研究通过剖析我们自身在社交关系中的亲身体验，对这一过程进行了深入考察。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251379031?ai=pih&mi=3fnskx&af=R
