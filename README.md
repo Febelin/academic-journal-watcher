@@ -68,23 +68,23 @@ pip install -r requirements.txt
 ```
 
 ### 2. 本地可选
-python fetch_feeds.py
-python daily_academic_report.py
+python fetch_feeds.py  
+python daily_academic_report.py  
 
 ### 3.配置 GitHub Secrets（必须）
-DEEPSEEK_API_KEY
-EMAIL_FROM
-EMAIL_TO
-EMAIL_PASSWORD
-EMAIL_SMTP_SERVER
-EMAIL_SMTP_PORT
+DEEPSEEK_API_KEY  
+EMAIL_FROM  
+EMAIL_TO  
+EMAIL_PASSWORD  
+EMAIL_SMTP_SERVER  
+EMAIL_SMTP_PORT  
 
 ## 💪🏻 Reproduce 复现方式（一步理解）
-复制该仓库结构
-写好 feeds.yaml（自定义或者不动也行） + settings.yaml（自定义或者不动也行）
-填 GitHub Secrets
-Push 到 GitHub
-GitHub Actions 运行即可
+复制该仓库结构  
+写好 feeds.yaml（自定义或者不动也行） + settings.yaml（自定义或者不动也行）  
+填 GitHub Secrets  
+Push 到 GitHub  
+GitHub Actions 运行即可  
 
 ## 📜 License
 MIT License.
