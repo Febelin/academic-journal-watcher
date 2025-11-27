@@ -57,7 +57,8 @@ academic-journal-watcher/
 │
 ├── requirements.txt
 └── README.md
----
+...
+```
 
 ## ⚙️ Usage 使用方式
 
