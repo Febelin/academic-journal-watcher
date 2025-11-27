@@ -2,9 +2,11 @@ name: Academic Journal Watcher
 
 on:
   schedule:
-    # 每两周（14 天）运行一次——UTC 时间 15:00左右运行
     - cron: "0 15 */14 * *"
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:  # 可选：保留手动触发方便你测试
+
+permissions:
+  contents: write
 
 jobs:
   run:
@@ -21,6 +23,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          # 确保拿到完整 git 历史，方便 commit & push
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,10 +34,35 @@ jobs:
 
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Academic Journal Watcher
+      - name: Run fetch_feeds.py
         run: |
           python fetch_feeds.py
+
+      - name: Run daily_academic_report.py
+        run: |
           python daily_academic_report.py
+
+      # 如果你有发邮件脚本，就保留这一段；没有就删掉
+      - name: Run send_email.py
+        run: |
           python send_email.py
+
+      # ✅ 新增：自动把 seen_items.csv 和报告 commit 回仓库
+      - name: Commit and push updated tracking files
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git status
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 加入去重文件和报告目录（有就加，没有就跳过）
+          git add data/seen_items.csv data/reports || echo "No tracking files to add"
+
+          # 如果没有变化，commit 会失败，所以用 || echo 兜底
+          git commit -m "Update seen items and reports [skip ci]" || echo "No changes to commit"
+
+          git push
