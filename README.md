@@ -65,6 +65,7 @@ academic-journal-watcher/
 ### 1. 安装依赖
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. 本地可选
 python fetch_feeds.py
