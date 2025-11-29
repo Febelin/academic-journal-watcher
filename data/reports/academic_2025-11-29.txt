@@ -1,0 +1,84 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2025-11-29 15:03
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (65 分)
+    时间: NaT
+    标题: Artificial intelligence use and scientific innovation
+    标题: 人工智能应用与科学创新
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 信息科学与技术协会杂志，早期阅览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70043?af=R
+
+- [New Media & Society] (65 分)
+    时间: 2025-11-29 05:12:49+00:00
+    标题: Reconceptualising political influencers: An alternative means of definition and analysis
+    标题: 重新构想政治影响者：一种定义与分析的替代方法
+    摘要: New Media & Society, Ahead of Print. <br />Recent interest in online political influencers has resulted in an array of competing definitions of who counts as a political influencer. Contending the value of a more porous and resilient definition able to recognise a spectrum of online political ...
+    摘要: 《新媒体与社会》期刊网络优先发表<br/>近期对网络政治意见领袖的研究兴趣催生了多种相互竞争的定义。本文主张采用更具包容性与适应性的定义标准，以识别光谱式分布的网络政治影响力……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251395272?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (40 分)
+    时间: 2025-11-28 08:58:25+00:00
+    标题: Utilizing information communication technologies (ICTs) during the process of disaffiliating from the ultra-Orthodox community
+    标题: 脱离极端正统犹太社区过程中的信息通信技术应用
+    摘要: New Media & Society, Ahead of Print. <br />The ultra-Orthodox community is characterized by high levels of commitment to community and religion and insulation from the outside world. Leaving such a community resembles the process of migration, in which the individual encounters new cultures, norms,...
+    摘要: 《新媒体与社会》期刊网络首发论文。<br/>超正统犹太社区具有高度忠于社区信仰、与外界隔绝的特点。脱离此类社区类似于移民过程，个体会遭遇全新的文化规范……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251393375?ai=pih&mi=3fnskx&af=R
+
+- [Communication Research] (40 分)
+    时间: 2025-11-27 10:39:23+00:00
+    标题: A Scoping Review of Prosocial and Antisocial Media Content and Effects in Narrative Entertainment Research Across Five Decades
+    标题: 五十年叙事娱乐研究中亲社会与反社会媒体内容及影响的范围综述
+    摘要: Communication Research, Ahead of Print. <br />Despite the popularity of investigations intoprosocialandantisocialmedia content and effects in entertainment research, the essence and boundary conditions of these terms are not well-demarcated. In a preregistered scoping review, we explored how...
+    摘要: 《传播研究》，印刷前。<br />尽管娱乐研究中关于亲社会与反社会媒体内容及其影响的探讨颇为盛行，但这两个概念的本质内涵与边界条件尚未得到明确界定。通过一项预先注册的范围综述，我们系统探究了...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502251395817?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2025-11-27 08:00:00+00:00
+    标题: Augmented Learning for Joint Creativity in Human-GenAI Co-Creation
+    标题: 人机共创中增强学习促进联合创造力
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，印刷前在线发表。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.0984?af=R
+
+- [American Sociological Review] (15 分)
+    时间: 2025-11-28 05:35:46+00:00
+    标题: (Trans)National Gender Expertise and the Politics of Recognition
+    标题: （跨国）性别专业知识与承认政治
+    摘要: American Sociological Review, Ahead of Print. <br />International nongovernmental organizations (INGOs) require a global rights category around which they can make claims. But, social category systems vary across context. How do INGOs articulate a global transgender rights category amid rapidly shifting ...
+    摘要: 《美国社会学评论》印刷前在线版。<br />国际非政府组织需要确立一个全球性的权利范畴，以便据此提出诉求。然而社会分类体系因地域背景而异。在性别观念急剧变迁的语境下，国际非政府组织如何构建具有全球共识的跨性别权利范畴...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224251388654?af=R
+
+- [American Sociological Review] (15 分)
+    时间: 2025-11-27 09:25:05+00:00
+    标题: Who Can Have a Baby? Social Norms and the Right to Reproduce
+    标题: 谁能生育？社会规范与生育权
+    摘要: American Sociological Review, Ahead of Print. <br />Childbearing norms and discourse influence social interactions and policy priorities, reflecting and reinforcing social stratification. We propose a theoretical framework that systematically explains stratification and discrimination in childbearing ...
+    摘要: 《美国社会学评论》，印刷前。<br />生育规范与话语权不仅影响着社会互动与政策导向，更折射并强化着社会阶层分化。本文构建的理论框架系统阐释了生育领域存在的阶层分化与歧视现象...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224251387273?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2025-11-27 10:40:43+00:00
+    标题: Scanning for Wellness: QR Code Strategies to Promote Public Health Programs
+    标题: 扫描健康：运用二维码策略推广公共卫生项目
+    摘要: Health Promotion Practice, Ahead of Print. <br />This article discusses the importance of effective communication tools in public health, highlighting innovations like Quick Response (QR) codes and QR wallet reference cards (QR cards) for enhancing outreach and education. QR codes are scannable barcodes ...
+    摘要: 《健康促进实践》印刷前预发表。<br>本文探讨了有效沟通工具在公共卫生领域的重要性，重点介绍了快速响应(QR)码和QR电子钱包参考卡(QR卡)等创新工具在拓展服务范围与加强健康教育方面的应用。QR码是可扫描的条形码...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399251391141?af=R
+
+- [International Journal of Press/Politics] (10 分)
+    时间: 2025-11-28 04:36:51+00:00
+    标题: Implementing CDC’s Active Communities Tool and Action Planning Guide With Local Health Departments in New York State: A Program to Convene Cross-Sector Partnerships for Transportation and Land Use Planning
+    标题: 在纽约州地方卫生部门实施CDC活跃社区工具与行动计划指南：一项旨在汇聚跨部门合作以推动交通与土地利用规划的项目
+    摘要: Health Promotion Practice, Ahead of Print. <br />Local health departments (LHDs) can promote physical activity and prevent chronic diseases by applying Public Health 3.0, which calls on them to serve as chief health strategists in their communities, engage community stakeholders, and use actionable, ...
+    摘要: 《健康促进实践》印刷前出版物。<br />地方卫生部门可通过应用“公共卫生3.0”模式来促进身体活动并预防慢性疾病。该模式要求地方卫生部门在社区中担任首席健康战略师，积极吸纳社区利益相关者参与，并运用可操作的...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399251390512?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2025-11-27 10:18:22+00:00
+    标题: The Use of Community Advocacy Educational Toolkits: Explaining “Explanation of Benefits” to Support Adolescent and Young Adult Health in Pennsylvania
+    标题: 社区倡导教育工具包的应用：解读“福利说明”以支持宾夕法尼亚州青少年健康
+    摘要: Health Promotion Practice, Ahead of Print. <br />Explanations of Benefits (EOBs) are claims documents sent by health insurers to notify policyholders of charges for their and their covered dependents’ medical care. EOBs can result in a breach of patient confidentiality for dependents; dependents may ...
+    摘要: 《健康促进实践》印刷前出版物。<br/>利益解释（EOB）是健康保险公司发送的索赔文件，用于通知投保人其本人及受抚养家属的医疗费用。EOB可能导致患者家属的隐私泄露；家属可能...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399251390503?af=R
