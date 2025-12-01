@@ -1,0 +1,20 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2025-12-01 15:04
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (30 分)
+    时间: NaT
+    标题: Exploring the dynamics of external and self‐citations and their role in shaping scientific impact
+    标题: 探索外部引用与自我引用的动态及其在塑造科学影响力中的作用
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70042?af=R
+
+- [New Media & Society] (30 分)
+    时间: 2025-11-29 12:21:03+00:00
+    标题: ‘Influence’ in the (post-)digital age: Girls’ experiences of online influencer culture
+    标题: （后）数字时代的“影响力”：女孩们对网络影响者文化的体验
+    摘要: New Media & Society, Ahead of Print. <br />This paper examines how girls aged 9–15 engage with online influencer culture, focusing on interplays between digital and non-digital normative ecologies. Drawing on school-based workshops, we explore tensions between authenticity, normative ideals and ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本文探讨9至15岁女孩如何参与网络影响者文化，重点关注数字与非数字规范生态之间的相互作用。基于校园工作坊的研究，我们探讨了真实性、规范理想与……之间的张力。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251392918?ai=pih&mi=3fnskx&af=R
