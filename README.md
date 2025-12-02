@@ -20,14 +20,14 @@ All of this is orchestrated by **GitHub Actions**, so it runs on a fixed schedul
 
 ## ✨ Features 
 
-- 🔄 **Bi-weekly scheduled runs** via GitHub Actions
-- 📰 **RSS-based journal monitoring** – configurable in `config/feeds.yaml`
-- 🆕 **Incremental new-item detection** via `data/seen_items.csv` 
-- 🤖 **LLM-powered relevance scoring** using DeepSeek
-- 🌐 **Optional EN → ZH translation** for titles & abstracts
-- 📄 **Plain-text reports** saved in `data/reports/academic_YYYY-MM-DD.txt`
-- 💾 **Auto-commit of tracking & reports** back to the repository
-- 📬 **Optional email delivery** via SMTP
+- **Bi-weekly scheduled runs** via GitHub Actions
+- **RSS-based journal monitoring** – configurable in `config/feeds.yaml`
+- **Incremental new-item detection** via `data/seen_items.csv` 
+- **LLM-powered relevance scoring** using DeepSeek
+- **Optional EN → ZH translation** for titles & abstracts
+- **Plain-text reports** saved in `data/reports/academic_YYYY-MM-DD.txt`
+- **Auto-commit of tracking & reports** back to the repository
+- **Email delivery** via SMTP
 
 ---
 
