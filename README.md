@@ -1,12 +1,10 @@
-# Academic Journal Watcher / 学术期刊监测器
+# Academic Journal Watcher 
 
 > Automatically monitors your selected academic journals every two weeks, using LLMs to filter and compile the articles most relevant to your interests for easy browsing and reading.  
-> 每两周自动监测你自定义的学术期刊，借助大语言模型（LLM）筛选并整理你最感兴趣的文章与链接，方便快速浏览与学习。基于 GitHub Actions，实现全自动、零人工维护的更新流程。
 
 ---
 
-## 📘 Overview / 项目简介
-
+## 📘 Overview 
 **Academic Journal Watcher** is an automated pipeline that:
 
 - monitors selected academic journals via RSS,
@@ -20,21 +18,20 @@ All of this is orchestrated by **GitHub Actions**, so it runs on a fixed schedul
 
 ---
 
-## ✨ Features / 功能亮点
+## ✨ Features 
 
-- 🔄 **Bi-weekly scheduled runs** via GitHub Actions（默认每 14 天运行一次）
+- 🔄 **Bi-weekly scheduled runs** via GitHub Actions
 - 📰 **RSS-based journal monitoring** – configurable in `config/feeds.yaml`
-- 🆕 **Incremental new-item detection** via `data/seen_items.csv` 去重
-- 🤖 **LLM-powered relevance scoring** using DeepSeek（通过用户研究兴趣画像打分）
-- 🌐 **Optional EN → ZH translation** for titles & abstracts（自动生成中文译文）
+- 🆕 **Incremental new-item detection** via `data/seen_items.csv` 
+- 🤖 **LLM-powered relevance scoring** using DeepSeek
+- 🌐 **Optional EN → ZH translation** for titles & abstracts
 - 📄 **Plain-text reports** saved in `data/reports/academic_YYYY-MM-DD.txt`
 - 💾 **Auto-commit of tracking & reports** back to the repository
-- 📬 **Optional email delivery** via SMTP（可选邮件发送）
+- 📬 **Optional email delivery** via SMTP
 
 ---
 
-## 📁 Project Structure / 目录结构
-
+## 📁 Project Structure 
 ```bash
 academic-journal-watcher/
 │
