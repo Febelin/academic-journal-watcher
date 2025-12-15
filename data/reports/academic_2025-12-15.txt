@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2025-12-15 15:06
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (75 分)
+    时间: 2025-12-10 08:10:10+00:00
+    标题: Young women’s perceptions of cooperative privacy threats through the lens of abortion in the United States
+    标题: 美国年轻女性视角下对合作隐私威胁的认知——以堕胎议题为例
+    摘要: New Media & Society, Ahead of Print. <br />Privacy scholars have posited that institutional privacy threats arouse more uncertainty than social privacy threats, though research examining different types of privacy threats side-by-side is limited. This research uses the repeal of federal protection ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />隐私研究学者认为，相比社交隐私威胁，制度性隐私威胁会引发更多不确定性，尽管将不同类型隐私威胁进行对比的研究仍较为有限。本研究以联邦隐私保护条例的废除为切入点……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251403196?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-12-11 06:09:40+00:00
+    标题: Misreading uncivil and intolerant anti-immigration content in digital spheres: The role of recent online perpetration
+    标题: 误读数字空间中的不文明与不容忍反移民内容：近期网络施害行为的作用
+    摘要: New Media & Society, Ahead of Print. <br />Online hostility has become increasingly common in digital public spaces, often to the detriment of marginalized groups. While prior research distinguishes between incivility and intolerance, little is known about whether users can recognize these forms ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />网络敌意行为在数字公共空间中日益普遍，往往对边缘群体造成伤害。尽管先前研究区分了不文明行为与不容忍行为，但用户能否识别这两种形式尚不明确……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251401865?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2025-12-08 08:00:00+00:00
+    标题: Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition
+    标题: 知与不知：可解释人工智能与人类元认知
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1431?af=R
+
+- [New Media & Society] (65 分)
+    时间: 2025-12-09 07:14:25+00:00
+    标题: Artificially alive: An exploration of AI resurrections and spectral labor modes in a postmortal society
+    标题: 人工生命：后死亡社会中人工智能复活与幽灵劳动模式的探索
+    摘要: New Media & Society, Ahead of Print. <br />Generative Artificial Intelligence (GenAI) is widely regarded as a transformative force, reshaping our understanding of both life and death. One experimental frontier is its ability to recreate deceased human beings. Our article explores this nascent ...
+    摘要: 《新媒体与社会》印刷前在线发表。<br />生成式人工智能（GenAI）被广泛视为一股变革性力量，正在重塑我们对生与死的理解。其前沿实验之一便是重现逝者的能力。本文探讨了这一新兴领域……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251397518?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2025-12-11 06:11:33+00:00
+    标题: Parasitic activism: Grassroots electronics repair in and against big tech
+    标题: 寄生式行动主义：草根电子维修在巨头科技公司内外的抗争
+    摘要: New Media & Society, Ahead of Print. <br />The electronics Right-to-Repair movement, which challenges tech companies’ repair restrictions and advocates for more sustainable digital devices, is drawing increasing scholarly attention. While existing discussions focus on formalized activism ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />电子产品的“维修权”运动正日益受到学界关注，该运动挑战科技公司的维修限制，倡导更具可持续性的数字设备。现有讨论多集中于制度化的维权行动……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251403488?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (65 分)
+    时间: 2025-12-05 08:00:00+00:00
+    标题: What, Why, and How: An Empiricist’s Guide to Double/Debiased Machine Learning
+    标题: 是什么、为什么与如何：一位经验主义者的双重/去偏机器学习指南
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.0888?af=R
+
+- [Information Systems Research] (45 分)
+    时间: 2025-12-10 08:00:00+00:00
+    标题: The Effects of the FTC Policy and Affiliation Disclosures on Product Review Video Engagement: Evidence from YouTube
+    标题: 联邦贸易委员会政策与关联披露对产品评测视频参与度的影响：来自YouTube的证据
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0158?af=R
+
+- [Communication Research] (35 分)
+    时间: 2025-12-01 07:23:40+00:00
+    标题: Gendered News Coverage at the Apex of Political Leadership: Validating and Applying a Visual Character Frame Instrument to the Campaigns of Merkel, Clinton, and Their Male Opponents
+    标题: 政治领导层顶端的性别化新闻报道：验证并应用视觉人物框架工具分析默克尔、克林顿及其男性对手的竞选活动
+    摘要: Communication Research, Ahead of Print. <br />This cross-national, two-study project examines leadership at the intersection of gender, politics, and visual framing. In Study 1, an online experiment, we used AI-generated images of synthetic women and men candidates (N= 996) to validate an existing ...
+    摘要: 《传播学研究》预印本。<br />这项跨国双研究项目探讨了性别、政治与视觉框架交叉点上的领导力问题。在第一项研究中，我们通过在线实验采用人工智能生成的虚拟男女候选人图像（样本量=996），验证了现有...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502251389039?af=R
+
+- [Communication Research] (30 分)
+    时间: 2025-12-10 11:07:31+00:00
+    标题: A Double-Edged Sword? The Consequences of Work-Related Instant Messaging Use for Employees
+    标题: 一把双刃剑？工作相关即时通讯工具使用对员工的双重影响
+    摘要: Communication Research, Ahead of Print. <br />Amid growing concerns about employee misconduct within private WhatsApp groups, this study captures the dual nature of work-related group chats on external instant messaging platforms. We distinguish between employees’ prosocial (e.g., information sharing)...
+    摘要: 《传播研究》预印本。<br />随着对员工在私人WhatsApp群组中不当行为的日益担忧，本研究揭示了外部即时通讯平台上与工作相关的群聊的双重性质。我们区分了员工的亲社会行为（如信息共享）……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502251401642?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2025-12-04 08:00:00+00:00
+    标题: Working Daily, Paid Monthly? Effects of On-Demand Wage Access on the Financial Engagement of Low-Wage Workers
+    标题: 日结工资，月付薪水？按需取薪对低薪劳动者财务参与度的影响
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0673?af=R
+
+- [Communication Research] (30 分)
+    时间: 2025-12-03 10:01:12+00:00
+    标题: The Reciprocity of Discrete Emotions and Health Information Seeking and Avoidance: An Experience Sampling Study
+    标题: 离散情绪与健康信息寻求与回避的互惠性：一项经验取样研究
+    摘要: Communication Research, Ahead of Print. <br />Although health information behaviors are commonly assumed to serve an emotion-regulating function, the present state of research focuses on emotions as predictors of these behaviors. The reciprocal relationship between emotions and seeking or avoiding ...
+    摘要: 《传播研究》，印刷前。<br />尽管健康信息行为通常被认为具有情绪调节功能，但当前的研究现状主要关注情绪作为这些行为的预测因素。情绪与寻求或回避健康信息之间的相互关系……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502251395835?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2025-12-03 08:00:00+00:00
+    标题: Collaborative Intelligence in Sequential Experiments: A Human-in-the-Loop Framework for Drug Discovery
+    标题: 序贯实验中的协同智能：药物发现的人机协作框架
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1154?af=R
