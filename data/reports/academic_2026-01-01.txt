@@ -1,0 +1,44 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-01-01 15:04
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2025-12-29 08:46:46+00:00
+    标题: Engineering epistemic churn: A theory of prolonged meaning-making under platform conditions
+    标题: 工程化认知流转：平台条件下持续意义建构的理论
+    摘要: New Media & Society, Ahead of Print. <br />This article theorizes how platform infrastructures produce epistemic churn—a condition in which publics remain caught in unresolved cycles of interpretation. Unlike models centered on belief accuracy or convergence, epistemic churn explains how ...
+    摘要: 《新媒体与社会》网络首发。<br />本文从理论层面阐释了平台基础设施如何催生认知流转——即公众持续陷入未决阐释循环的状态。与聚焦信念准确性或共识形成的模型不同，认知流转理论揭示了……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251407335?ai=pih&mi=3fnskx&af=R
+
+- [American Sociological Review] (75 分)
+    时间: 2025-12-29 10:12:21+00:00
+    标题: The Long Shadow of Partisan Hostility: How Affective Polarization Hinders Democracies’ Ability to Mitigate Climate Change
+    标题: 党派敌意的深远影响：情感极化如何阻碍民主国家应对气候变化的能力
+    摘要: American Sociological Review, Ahead of Print. <br />Sociologists and others have studied whether democracies are becoming more ideologically polarized over climate change. However, research has yet to investigate if a newer form of division—affective polarization, or citizens’ hostility toward opposing ...
+    摘要: 《美国社会学评论》预印本。<br />社会学家和其他学者一直在研究民主国家在气候变化问题上是否正变得更加意识形态极化。然而，研究尚未探讨一种较新的分裂形式——情感极化，即公民对对立方的敌意……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224251396518?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2025-12-31 04:18:35+00:00
+    标题: “I am Neuro, who are you?”: Performances of authenticity in an experimental AI livestream
+    标题: “我是Neuro，你是谁？”：一场实验性AI直播中的真实性表演
+    摘要: New Media & Society, Ahead of Print. <br />Authenticity is simultaneously part of the appeal and anxiety surrounding GenAI (generative artificial intelligence) technologies, which are often evaluated in terms of whether their speech and interactions can “pass” as authentically human. This study ...
+    摘要: 《新媒体与社会》网络首发。<br />真实性既是生成式人工智能（GenAI）技术吸引力的组成部分，也是围绕其产生的焦虑来源——这类技术常以其言谈互动能否“通过”真实性人类测试作为评判标准。本研究...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251406904?ai=pih&mi=3fnskx&af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (45 分)
+    时间: NaT
+    标题: Repetition and modality in information trustworthiness judgments: Investigating the illusory truth effect in multimodal health information environments
+    标题: 信息可信度判断中的重复与模态：探究多模态健康信息环境中的虚幻真相效应
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70046?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2025-12-31 06:35:16+00:00
+    标题: Supporting College Athletes: Wellness Programs in the Era of NIL and Legal Reform
+    标题: 支持大学生运动员：姓名、形象与肖像权及法律改革时代的健康计划
+    摘要: Health Promotion Practice, Ahead of Print. <br />The college athletics landscape has evolved dramatically in the past decade. While the legal question of whether college athletes are employees remains open, court proceedings have regularly revealed that schools treat their athletes similarly to ...
+    摘要: 《健康促进实践》印刷前。<br />过去十年间，大学体育领域发生了翻天覆地的变化。尽管大学生运动员是否属于雇员这一法律问题尚无定论，但法庭诉讼程序屡屡揭示出学校对待运动员的方式与……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399251398527?af=R
