@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-02-15 15:06
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2026-02-06 05:48:05+00:00
+    标题: The extrajudicial digital: Disconnection as a legacy of institutional control
+    标题: 法外数字空间：断网作为制度控制的遗留产物
+    摘要: New Media & Society, Ahead of Print. <br />In May 2010, the U.S. Public Affairs Office of the Joint Task Force of Guantánamo (JTF-GTMO) joined many other federal institutions in opening an official Twitter account (@JTFGTMO), but by May 2019, it was gone; the account, deactivated. This research ...
+    摘要: 《新媒体与社会》网络首发。<br />2010年5月，关塔那摩联合特遣部队（JTF-GTMO）美国公共事务办公室与众多联邦机构同步开设官方推特账号（@JTFGTMO），但至2019年5月该账号已注销停用。本研究...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251383854?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-02-12 03:59:01+00:00
+    标题: How AI is imagined by industry during the Sam Altman controversy
+    标题: 在萨姆·奥特曼争议期间，行业如何想象人工智能
+    摘要: New Media & Society, Ahead of Print. <br />The aim of this research is to identify AI imaginaries, the issues they raise, and how the AI industry tackles them. It does so by choosing an opportune moment to map the issue space by virtue of a controversy around the firing and rehiring of OpenAI CEO ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本研究旨在识别人工智能的想象图景、其引发的问题，以及人工智能行业如何应对这些问题。研究通过选取一个关键时机——围绕OpenAI首席执行官被解雇与重新聘用引发的争议——来描绘这一议题的格局。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261419109?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-02-05 06:46:30+00:00
+    标题: On the Internet no-one knows you’re not a bot: ‘Botting’ on Reddit as participatory culture
+    标题: 在互联网上，没人知道你不是机器人：Reddit上的“机器人行为”作为参与式文化
+    摘要: New Media & Society, Ahead of Print. <br />Repetitive online communication is often labelled a ‘bot problem’ by platforms, policymakers and users. However, repetitive posting does not exclusively indicate automation; humans also engage in bot-like posting for various purposes. We adopt the term ‘...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />重复性网络传播常被平台、政策制定者和用户贴上“机器人问题”的标签。然而，重复发帖并不完全意味着自动化操作；人类出于各种目的也会进行类似机器人的发帖行为。我们采用“...”这一术语来描述...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251409210?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2024-12-03 05:25:35+00:00
+    标题: On the fly: How Japanese social media “watchers” improvise to counter problematic information
+    标题: 即时应对：日本社交媒体“观察者”如何即兴反击问题信息
+    摘要: New Media & Society, Volume 28, Issue 2, Page 720-738, February 2026. <br />Recent studies have explored how the purveyors of problematic information can mobilize online crowds by tapping into positive feelings like amusement, belonging, and optimism. Unfortunately, it is not clear how such participation and emotions can also ...
+    摘要: 《新媒体与社会》第28卷第2期，第720-738页，2026年2月。<br />近期研究探讨了问题信息的传播者如何通过调动娱乐感、归属感与乐观情绪等积极情感来动员网络群体。然而，此类参与行为和情感如何同时……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241302311?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2026-02-04 08:00:00+00:00
+    标题: Reactions by Actual Data Breach Victims over Time: Evidence from Facebook’s Cambridge Analytica Breach
+    标题: 实际数据泄露受害者的长期反应：来自Facebook剑桥分析数据泄露事件的证据
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0391?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-02-12 04:01:46+00:00
+    标题: Data mirroring: A methodological framework for data-donation-based interviews in media use research
+    标题: 数据镜像：媒体使用研究中基于数据捐赠的访谈方法框架
+    摘要: New Media & Society, Ahead of Print. <br />This article introduces “data mirroring,” a methodological framework for conducting data-donation-based interviews using Data Download Packages (DDPs) from digital platforms. Since the General Data Protection Regulation took effect, DDPs have found ...
+    摘要: 《新媒体与社会》网络首发。<br />本文提出“数据镜像”这一方法论框架，用于借助数字平台的数据下载包开展基于数据捐赠的访谈研究。自《通用数据保护条例》生效以来，数据下载包的应用场景不断拓展...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261419078?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-02-11 09:04:53+00:00
+    标题: Frictional memory: The afterlives of lynching in the digital public spheres
+    标题: 摩擦记忆：数字公共领域中私刑的余波
+    摘要: New Media & Society, Ahead of Print. <br />This article investigates the digital afterlives of lynching, how its memory is invoked, refracted, and contested on Twitter. Drawing on a hybrid methodological approach that combines computational analysis of tweet corpora with interpretive readings, the ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本文探讨了私刑的数字“来世”，即其记忆如何在推特上被唤起、折射与争辩。研究采用混合方法论，结合推文语料库的计算分析与阐释性解读……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261416894?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-02-11 09:07:18+00:00
+    标题: From experimentation to integration: Mapping AI use across European media and communication professionals
+    标题: 从实验到融合：欧洲媒体与传播专业人士人工智能应用全景图
+    摘要: New Media & Society, Ahead of Print. <br />This study, one of the first cross-national and cross-professional approaches, maps Artificial Intelligence (AI) adoption and perceptions through a survey of 797 professionals in eight countries (Spain, Italy, France, Portugal, Netherlands, Germany, ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本研究采用跨国界、跨专业的创新视角，通过对西班牙、意大利、法国、葡萄牙、荷兰、德国等八个国家797名专业人士的问卷调查，系统描绘了人工智能技术的应用现状与认知图景。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261416895?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-02-03 06:01:23+00:00
+    标题: From clicktivism to outsourced activism: Spectacle, dual outsourcing, and the connective logic in platform philanthropy
+    标题: 从点击行动到外包行动：平台慈善中的奇观、双重外包与连接逻辑
+    摘要: New Media & Society, Ahead of Print. <br />In the digital age, philanthropy is increasingly mediated by platform microcelebrities who mobilize audiences for social good. This study examines the novel philanthropic model of YouTube creator Jimmy Donaldson as a case ofoutsourced activism, ...
+    摘要: 《新媒体与社会》印刷前刊。<br />在数字时代，慈善事业日益受到平台微名人的中介影响，他们动员受众参与社会公益。本研究以YouTube创作者吉米·唐纳森的新型慈善模式为例，探讨了“外包行动主义”现象……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251413710?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-02-05 08:13:21+00:00
+    标题: What does the news say about Siri, Alexa, and co.? A topic model network analysis of Dutch news messages about virtual assistants between 2011 and 2022
+    标题: 关于Siri、Alexa及其同类产品的新闻报道说了什么？——2011年至2022年间荷兰媒体对虚拟助手的主题模型网络分析
+    摘要: New Media & Society, Ahead of Print. <br />News media can shape public perceptions of technology and meaningfully inform research on technology adoption. Yet, little is known about the news representations of a currently emerging technology: Virtual Assistants (VAs). By examining the Dutch news ...
+    摘要: 《新媒体与社会》印刷前。<br />新闻媒体能够塑造公众对技术的认知，并对技术采纳的研究提供有意义的信息。然而，对于当前新兴技术——虚拟助手（VAs）的新闻呈现，人们知之甚少。通过研究荷兰新闻...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251413694?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2024-11-20 05:51:45+00:00
+    标题: The dual impact of social media on Asian Americans’ racial identity and resilience during the COVID-19 pandemic
+    标题: 社交媒体在COVID-19疫情期间对亚裔美国人种族认同与心理韧性的双重影响
+    摘要: New Media & Society, Volume 28, Issue 2, Page 611-629, February 2026. <br />Based on social identity theory and the resilience literature, this study explored the ways social media impacted Asian Americans’ emotional well-being, racial identity negotiation, and coping strategies amid the surge in anti-Asian discourses during the ...
+    摘要: 《新媒体与社会》第28卷第2期，第611-629页，2026年2月。<br />本研究基于社会认同理论与心理韧性研究，探讨了在反亚裔言论激增的背景下，社交媒体如何影响亚裔美国人的情绪健康、种族身份协商及应对策略。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241298237?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2024-11-06 06:26:55+00:00
+    标题: Group-swinging as a strategic approach to curating multiple minority identities online: A study of lesbian gamers
+    标题: 线上多重少数身份构建的策略性方法：女同性恋游戏玩家的群体摇摆现象研究
+    摘要: New Media & Society, Volume 28, Issue 2, Page 465-484, February 2026. <br />Building upon platform-swinging, this study introduces the concept of identity-driven “group-swinging” within a single platform, focusing on how users with multiple minority identities strategically curate corresponding identities through this process. ...
+    摘要: 《新媒体与社会》第28卷第2期，第465-484页，2026年2月。<br />本研究以平台摇摆现象为基础，提出单一平台内身份驱动的“群体摇摆”概念，聚焦于拥有多重少数群体身份的用户如何通过此过程策略性地构建对应身份。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241291990?ai=pih&mi=3fnskx&af=R
