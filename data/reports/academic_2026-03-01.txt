@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-03-01 15:04
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Communication Research] (85 分)
+    时间: 2026-02-16 09:54:23+00:00
+    标题: The Pulse of Privacy: The Role of Efficacy Framing and Discrete Emotion in Combating Privacy Powerlessness and Motivating Online Privacy Protection
+    标题: 隐私脉搏：效能框架与离散情绪在对抗隐私无力感与激励在线隐私保护中的作用
+    摘要: Communication Research, Ahead of Print. <br />Can discrete emotions be leveraged to combat privacy powerlessness and motivate privacy protection? Extending theorizing and research that exclusively focus on cognitive processes underlying online privacy decision-making, this study builds on gain/loss ...
+    摘要: 《传播研究》预印本。<br />能否利用离散情绪对抗隐私无力感并激励隐私保护？本研究在增益/损失框架基础上，拓展了仅关注网络隐私决策认知过程的理论与研究……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261415680?af=R
+
+- [Information Systems Research] (85 分)
+    时间: 2026-02-20 08:00:00+00:00
+    标题: AI Governance and the Decentralization of Technology Production: An Investigation of AI-Based IPA Bots
+    标题: 人工智能治理与技术生产的去中心化：基于人工智能的IPA机器人研究
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0588?af=R
+
+- [Information Systems Research] (85 分)
+    时间: 2026-02-23 08:00:00+00:00
+    标题: SUVA: A Probabilistic Framework for Auditing LLMs with an Application to Social Preferences
+    标题: SUVA：一种基于概率框架的大型语言模型审计方法及其在社会偏好中的应用
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.0857?af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-02-23 10:08:08+00:00
+    标题: Deliberative quality and discursive incivility in authoritarian context: An analysis of Covid-19 discussions on Facebook in Vietnam
+    标题: 威权语境下的审议质量与话语失范：越南Facebook上关于新冠疫情的讨论分析
+    摘要: New Media & Society, Ahead of Print. <br />This study explores online deliberation and discursive (in)civility within Vietnam’s authoritarian context, focusing on Facebook discourse during the COVID-19 pandemic. It examines how different types of Facebook pages (i.e. government information pages, ...
+    摘要: 《新媒体与社会》期刊网络首发。<br />本研究探讨越南威权体制下的网络审议与话语（非）文明现象，聚焦新冠疫情时期脸书平台的公共讨论。通过分析不同类型脸书页面（如政府信息页、...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261423535?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-03-01 02:00:30+00:00
+    标题: Birds of a feather flock even closer together in the digital era: The role of China’s parallel digital realm in the lives of migrant students in Hong Kong
+    标题: 数字时代物以类聚更紧密：中国平行数字领域在香港移民学生生活中的作用
+    摘要: New Media & Society, Ahead of Print. <br />This study examines how state-facilitated digital ecosystem segregation—between China’s “walled garden” Internet and Hong Kong’s global digital sphere—shapes the integration trajectories of mainland Chinese students in Hong Kong. Based on interviews with ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本研究探讨了国家主导的数字生态系统区隔——即中国“围墙花园”式互联网与香港全球数字空间之间的区隔——如何影响内地学生在香港的融入轨迹。基于对……的访谈……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261420798?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-02-19 06:51:43+00:00
+    标题: Is it politics or privacy? Antecedents of using Telegram, Signal, VK, Parler, and Gettr in five countries
+    标题: 是政治还是隐私？五国使用Telegram、Signal、VK、Parler和Gettr的前因分析
+    摘要: New Media & Society, Ahead of Print. <br />Large social media platforms are criticized for commodifying user data, corporate surveillance, and perceived censorship of political speech. As a result, some users flock to alternative platforms, like Telegram, Signal, VK, Parler, or Gettr. This study ...
+    摘要: 《新媒体与社会》网络首发。<br />大型社交媒体平台因将用户数据商品化、实施企业监控以及被认为审查政治言论而受到批评。因此，一些用户涌向替代平台，如Telegram、Signal、VK、Parler或Gettr。本研究……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261418996?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2024-12-25 09:23:21+00:00
+    标题: “The algorithm is like a mercurial god”: Exploring content creators’ perception of algorithmic agency on YouTube
+    标题: “算法如同变幻莫测的神明”：探索内容创作者对YouTube算法能动性的感知
+    摘要: New Media & Society, Volume 28, Issue 3, Page 1219-1238, March 2026. <br />Algorithmic systems wield substantial influence in contemporary society. Since it is mostly unknown how algorithms specifically work, content creators (CCs) on YouTube who rely on them for economic reasons are in a constant state of sensemaking regarding ...
+    摘要: 《新媒体与社会》第28卷第3期，第1219-1238页，2026年3月。<br />算法系统在当代社会具有重要影响力。由于算法具体运作机制大多不为人知，依赖其获取经济收益的YouTube内容创作者长期处于对……的意义建构状态中。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241307931?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-02-27 10:18:23+00:00
+    标题: “Your Wrapped doesn’t lie”: Data realism and Spotify’s constructions of music, listening, and listeners in algorithmic recommendation
+    标题: “你的年度总结不会说谎”：数据现实主义与Spotify算法推荐中的音乐、聆听与听众建构
+    摘要: New Media & Society, Ahead of Print. <br />Spotify Wrapped, the year-end campaign of the world’s biggest music streaming company, is a singularly successful marketing scheme in the context of algorithmic technologies. Presenting individual user data in a design tailored to mobile apps, Wrapped has ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />作为全球最大音乐流媒体公司的年终营销活动，“Spotify年度回顾”在算法技术语境下堪称独树一帜的成功营销方案。该活动通过适配移动端的设计呈现用户个人数据，以...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261422367?ai=pih&mi=3fnskx&af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (75 分)
+    时间: NaT
+    标题: Why “human‐AI collaboration” obscures what actually happens in information seeking
+    标题: 为何“人机协作”掩盖了信息检索的真实过程
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 美国信息科学与技术学会期刊，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70059?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2024-12-25 09:16:04+00:00
+    标题: Becoming Red-Pilled: Affective production in online countercultural collectives
+    标题: 觉醒之路：网络反文化集体中的情感生产
+    摘要: New Media & Society, Volume 28, Issue 3, Page 1081-1101, March 2026. <br />Advances in information and communication technologies present remarkable potential for globally dispersed people to connect and engage around a variety of interests. While online communities seemed to initially offer vast potential for social cohesion, ...
+    摘要: 《新媒体与社会》第28卷第3期，第1081-1101页，2026年3月。<br />信息与通信技术的进步为全球分散的人群围绕多种兴趣建立联系和互动提供了巨大潜力。虽然网络社区最初似乎为社会凝聚力提供了广阔前景……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241305420?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2026-02-18 08:00:00+00:00
+    标题: From Shield to Sword: How Data Privacy Can Undermine Data Security
+    标题: 从盾到剑：数据隐私如何削弱数据安全
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0566?af=R
+
+- [New Media & Society] (70 分)
+    时间: 2026-02-23 09:59:48+00:00
+    标题: The governance of AI-generated pornography platforms: A content analysis
+    标题: AI生成色情平台的治理：一项内容分析研究
+    摘要: New Media & Society, Ahead of Print. <br />Artificial intelligence (AI) is transforming adult content production by enabling users to generate highly customized sexual media through AI pornography platforms. Despite growing concerns about risks (e.g. illegal material generation and sex worker ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />人工智能正在改变成人内容的生产方式，用户可通过AI色情平台生成高度定制化的情色内容。尽管人们对相关风险（如非法内容生成和性工作者权益等）日益担忧……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261421873?ai=pih&mi=3fnskx&af=R
