@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-03-15 15:07
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2026-03-10 06:13:19+00:00
+    标题: The manufacturing of (Un)stability: Possible but improbable stability in long-term content moderation on Chinese social media platforms
+    标题: 制造（不）稳定性：中国社交媒体平台长期内容审核中可能但未必实现的稳定
+    摘要: New Media & Society, Ahead of Print. <br />This article examines how content moderation, often framed as precarious and invisible labor, has become a relatively stable occupation for many workers in China. Based on ethnographic fieldwork and 21 semi-structured interviews, we conceptualize this ...
+    摘要: 《新媒体与社会》网络首发。<br />本文探讨了内容审核这一常被视为不稳定且隐形的工作，如何在中国成为许多从业者相对稳定的职业。基于民族志田野调查和21次半结构化访谈，我们将这一现象概念化为……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261429498?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2026-03-13 07:00:00+00:00
+    标题: Balancing Acts: Unveiling the Dynamics of Post Removal on Social Media User-Generated Content
+    标题: 平衡之举：揭示社交媒体用户生成内容删除的动态机制
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0750?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-03-10 04:54:26+00:00
+    标题: Media cultivation of public outlooks on artificial general intelligence: Diverging cognitive and emotional pathways of news and entertainment media
+    标题: 媒体对公众关于通用人工智能看法的塑造：新闻与娱乐媒体在认知与情感路径上的分化
+    摘要: New Media & Society, Ahead of Print. <br />Building on first-order and second-order cultivation frameworks, we examine how exposure to news and entertainment media portrayals of artificial intelligence (AI) is associated with public perceptions of quantitative estimates of AI development and ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />基于一级与二级涵化理论框架，本研究考察了新闻与娱乐媒体对人工智能的描绘如何影响公众对人工智能发展量化评估的认知，并进一步探讨……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261426383?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-03-05 05:13:05+00:00
+    标题: Context matters: Understanding the platformization of violence
+    标题: 情境至关重要：理解暴力的平台化
+    摘要: New Media & Society, Ahead of Print. <br />This introductory paper outlines the conceptual foundations and research agenda for our special issueContextual Complexities of Violence on Digital Platforms.We argue that violence on digital platforms cannot be understood as a fixed or self-evident ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />这篇引言性论文概述了本特刊《数字平台暴力的情境复杂性》的概念基础与研究框架。我们认为，数字平台暴力不应被理解为固定不变或不言自明的现象……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261420823?ai=pih&mi=3fnskx&af=R
+
+- [Communication Research] (75 分)
+    时间: 2026-03-04 11:10:47+00:00
+    标题: Radical Right-Wing Political Deepfakes Can Successfully Delegitimize Targeted Political Actors: Evidence From Three-wave Experiments in the US and The Netherlands
+    标题: 激进右翼政治深度伪造视频可有效削弱目标政治人物的公信力：来自美国和荷兰的三波实验证据
+    摘要: Communication Research, Ahead of Print. <br />Political deepfakes potentially undermine democracy by amplifying socio-political divides in hyper-realistic manners. As an important next step in understanding the political consequences of deepfakes, this article reports on the longer-term effects of ...
+    摘要: 《传播研究》预印本。<br />政治深度伪造视频可能以超现实的方式加剧社会政治分歧，从而潜在地破坏民主。作为理解深度伪造政治影响的重要后续研究，本文探讨了其长期效应……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261421437?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (65 分)
+    时间: NaT
+    标题: A dancing bear, a colleague, or a sharpened toolbox? The cautious adoption of generative artificial intelligence technologies in digital humanities research
+    标题: 跳舞的熊、同事，还是锐化的工具箱？数字人文研究中生成式人工智能技术的审慎采纳
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70066?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (40 分)
+    时间: NaT
+    标题: Information behavior patterns and subjective digital well‐being: An exploratory study on perceptions of adults living in Germany
+    标题: 信息行为模式与主观数字幸福感：一项针对德国成年人的探索性研究
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《美国信息科学与技术学会会刊》，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70060?af=R
+
+- [International Journal of Press/Politics] (35 分)
+    时间: 2026-03-10 04:44:47+00:00
+    标题: Feasibility and Acceptability of Using Private Facebook Groups to Promote COVID-19 Vaccination Among Latino Parents
+    标题: 利用私人脸书群组促进拉丁裔父母接种新冠疫苗的可行性与可接受性
+    摘要: Health Promotion Practice, Ahead of Print. <br />COVID-19 vaccine uptake among U.S. Latino adults was slower than that of other groups during the pandemic, and younger Latino children were underrepresented among vaccinated populations. Parental vaccine hesitancy has been an important barrier, often ...
+    摘要: 《健康促进实践》印刷前在线发表。<br />疫情期间，美国拉丁裔成年人的COVID-19疫苗接种速度慢于其他群体，且拉丁裔低龄儿童在已接种人群中的比例偏低。家长对疫苗的犹豫态度是主要障碍之一，通常……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261428468?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2026-03-13 07:00:00+00:00
+    标题: Beyond Truthful Reporting: Robust Strategies for Worst-Case Payoff Maximization in Large Markets
+    标题: 超越真实报告：大型市场中实现最坏情况收益最大化的稳健策略
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.2127?af=R
+
+- [American Sociological Review] (30 分)
+    时间: 2026-03-13 04:43:52+00:00
+    标题: Living with Ghosts: How Physical Traces of the Past Shape Cultural Trauma in Chinatowns
+    标题: 与幽灵共处：昔日痕迹如何塑造唐人街的文化创伤
+    摘要: American Sociological Review, Ahead of Print. <br />Cultural trauma refers to how past experiences of harm can fundamentally transform a community’s shared identity, potentially generating feelings of solidarity and providing communities with a sense of common purpose. This article examines the role of ...
+    摘要: 《美国社会学评论》印刷前在线发表。<br />文化创伤指的是过去的伤害经历如何从根本上改变一个社区的集体认同，可能产生团结感，并为社区提供共同的目标感。本文探讨了……的作用。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261422414?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2026-03-05 08:00:00+00:00
+    标题: Reference Aware Delexicalization (RAD) Framework: Theory Driven Artificial Intelligence Modeling for Domain Generalization
+    标题: 参考感知去词汇化（RAD）框架：面向领域泛化的理论驱动人工智能建模
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0457?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (30 分)
+    时间: NaT
+    标题: Reviewer self‐reported confidence and evaluation breadth/depth in open peer review
+    标题: 开放同行评审中审稿人自述信心与评审广度/深度的关系
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 美国信息科学与技术协会会刊，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70069?af=R
