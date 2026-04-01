@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-04-01 15:29
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2026-03-31 05:27:04+00:00
+    标题: Affective–discursive ecologies of the far right: Multimodal softening, mobilisation and algorithmic proximity on Instagram
+    标题: 极右翼的情感-话语生态：Instagram上的多模态软化、动员与算法邻近性
+    摘要: New Media & Society, Ahead of Print. <br />This article examines how far-right communication on Instagram uses positively valenced affect and humour to normalise extremist worldviews. Drawing on research on mainstreaming, memetic communication and affective publics, it conceptualises far-right ...
+    摘要: 《新媒体与社会》网络首发。<br />本文探讨极右翼在Instagram上如何运用积极情感与幽默手法，使极端主义世界观常态化。借鉴主流化理论、模因传播及情感公众研究，本文对极右翼传播机制进行理论建构……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261428632?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (85 分)
+    时间: 2026-03-30 07:00:00+00:00
+    标题: Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems
+    标题: 若可遗忘：推荐系统中用户数据撤销的审计研究
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1179?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-03-30 02:16:47+00:00
+    标题: Displaying family on the DNA platform
+    标题: 在DNA平台上展示家族
+    摘要: New Media & Society, Ahead of Print. <br />Direct-to-consumer DNA platforms are significant yet overlooked social media platforms through which millions of users worldwide shape their identities. DNA platforms sort and match users using genetic data, creating novel familial ‘networked publics’ and ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />直接面向消费者的DNA平台是重要但被忽视的社交媒体平台，全球数百万用户通过这些平台塑造身份认同。DNA平台利用基因数据对用户进行分类与匹配，创造出新型家族式“网络化公共空间”……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261426380?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-03-31 05:42:56+00:00
+    标题: Beyond the streaming black box: Navigating the textures of access and data secrecy in media industries research
+    标题: 超越流媒体黑箱：探索媒体产业研究中访问权限与数据保密的复杂纹理
+    摘要: New Media & Society, Ahead of Print. <br />Global streaming services have reshaped the media landscape, through their business and distribution models, and their unprecedented collection of and control over data. This article examines how researchers navigate data secrecy and access in ...
+    摘要: 《新媒体与社会》网络首发。<br />全球流媒体服务通过其商业模式与分发模式，以及对数据史无前例的收集与控制，重塑了媒介生态。本文探讨了研究者如何在数据保密与获取的困境中寻求突破……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261433605?ai=pih&mi=3fnskx&af=R
+
+- [Communication Research] (65 分)
+    时间: 2026-03-30 08:52:29+00:00
+    标题: Adolescents’ Trust in Political Content From Influencers: The Roles of Motive Attribution and Parental Mediation
+    标题: 青少年对网红政治内容的信任：动机归因与父母中介的作用
+    摘要: Communication Research, Ahead of Print. <br />In today’s fragmented media landscape, social media influencers (SMIs) have emerged as popular political information sources among young audiences—despite often lacking political expertise. However, we have limited knowledge about factors that predict ...
+    摘要: 《传播学研究》预印本。<br />在当今碎片化的媒介环境中，社交媒体影响者（SMIs）已成为年轻受众获取政治信息的热门来源——尽管他们往往缺乏政治专业知识。然而，我们对预测其影响力的因素了解有限……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261425708?af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-03-30 10:54:39+00:00
+    标题: “The industry is so rotten”: Regulating video game monetisation and divided gaming cultures in China
+    标题: "行业已如此腐朽"：中国游戏货币化监管与分裂的游戏文化
+    摘要: New Media & Society, Ahead of Print. <br />This study explores how video game monetisation and regulation are debated in China, and what these discussions reveal about the cultural and ideological boundaries of gaming, through public responses to the proposed national regulation, “Measures for the ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发布。<br />本研究通过公众对拟议的国家监管措施——《……管理办法》的回应，探讨了中国如何围绕电子游戏的货币化与监管展开讨论，以及这些讨论如何揭示了游戏的文化与意识形态边界。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261432606?ai=pih&mi=3fnskx&af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (65 分)
+    时间: NaT
+    标题: Complex questions and quality answers: Comparing ChatGPT and Gemini as research collaborators
+    标题: 复杂问题与优质解答：比较ChatGPT与Gemini作为研究协作工具的表现
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70056?af=R
+
+- [Communication Research] (65 分)
+    时间: 2026-03-31 09:43:32+00:00
+    标题: An Analysis of Studies Testing Digital Interventions to Inoculate Against Misinformation: A Systematic Review
+    标题: 数字干预措施抵御错误信息影响的研究分析：一项系统性综述
+    摘要: Communication Research, Ahead of Print. <br />The proliferation of misinformation has stimulated research into games and videos to reduce susceptibility to misinformation via psychological inoculation. This research field applies several recent extensions of inoculation theory in novel ways, posing ...
+    摘要: 《传播研究》预印本。<br />虚假信息的泛滥促使人们研究如何通过游戏和视频进行心理免疫，以降低对虚假信息的易感性。这一研究领域以新颖的方式应用了免疫理论的若干最新扩展，提出了……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502251411467?af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-03-30 05:30:18+00:00
+    标题: Making creativity governable through dual optimization: Platform operators as cultural intermediaries in China’s social media entertainment
+    标题: 通过双重优化使创造力可治理：平台运营商作为中国社交媒体娱乐中的文化中介
+    摘要: New Media & Society, Ahead of Print. <br />This study examines platform operators (POs) on Chinese social media entertainment platforms as cultural intermediaries who govern creativity from within the platform. Drawing on interviews with POs and participant observation on a livestreaming platform, ...
+    摘要: 《新媒体与社会》网络首发。<br />本研究将中国社交媒体娱乐平台上的平台运营者视为文化中介，探讨其如何从平台内部治理创意生产。基于对平台运营者的访谈及对某直播平台的参与式观察，……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261431807?ai=pih&mi=3fnskx&af=R
+
+- [American Sociological Review] (40 分)
+    时间: 2026-03-31 01:00:18+00:00
+    标题: Salience Shifts and Managerial Discretion: How Periods of Islamist Terrorism Affect the Employment of Middle Eastern Men
+    标题: 显著性转移与管理自主权：伊斯兰恐怖主义时期如何影响中东男性的就业状况
+    摘要: American Sociological Review, Ahead of Print. <br />Islamist terrorist attacks evoke negative stereotypes and symbolic threat perceptions toward men perceived to be of Middle Eastern origin, yet evidence on the labor market consequences of these attacks remains inconsistent. We address this ambiguity by ...
+    摘要: 《美国社会学评论》预印本。<br />伊斯兰恐怖主义袭击会引发针对被认为具有中东血统男性的负面刻板印象和象征性威胁感知，然而关于这些袭击对劳动力市场影响的证据仍存在矛盾。我们通过...来厘清这一模糊性。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261424488?af=R
+
+- [International Journal of Press/Politics] (30 分)
+    时间: 2026-03-31 06:51:03+00:00
+    标题: Healthcare Providers as Trusted Messengers: Results From Three Timepoints During the COVID-19 Pandemic
+    标题: 医护人员作为可信信使：新冠疫情三个时间点的调查结果
+    摘要: Health Promotion Practice, Ahead of Print. <br />During the COVID-19 pandemic, healthcare professionals struggled to get accurate, up-to-date information to community members, especially to minoritized, marginalized, and underserved communities. Healthcare providers themselves are often viewed and used ...
+    摘要: 《健康促进实践》印刷前在线发表。<br />在COVID-19大流行期间，医疗专业人员难以为社区成员——特别是少数族裔、边缘化和服务不足的社区——提供准确、最新的信息。医疗保健提供者自身常常被视为并充当着……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261425990?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-03-31 07:04:03+00:00
+    标题: “We are all Human Beings That Deserve the Same Opportunities as Everyone Else”: Immigrant Perspectives on Health in Southeast Minnesota: A Photovoice Study
+    标题: “我们同为人类，理应享有与他人同等的机会”：明尼苏达州东南部移民健康观——一项影像发声研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Due to systemic barriers, policymakers in the United States may be unaware of immigrants’ health-related priorities. In response, Rochester Healthy Community Partnership, a 22-year community-engaged partnership, collaborated with 14 Hispanic/Latino and ...
+    摘要: 《健康促进实践》印刷前在线发表。<br />由于系统性障碍，美国的政策制定者可能并不了解移民的健康相关优先事项。为此，罗切斯特健康社区伙伴关系——一个已成立22年的社区参与型合作组织——与14个西班牙裔/拉丁裔及...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261429976?af=R
