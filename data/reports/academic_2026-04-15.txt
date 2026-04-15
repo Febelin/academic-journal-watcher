@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-04-15 15:27
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: Affordance folklore: Truth, community and visibility during Sri Lanka’s Internet shutdowns
+    标题: 可供性民俗：斯里兰卡网络关闭期间的真相、社群与可见性
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1504-1523, April 2026. <br />To governments worldwide, Internet shutdowns are the trip-switch solution to civic unrest, and they occur with surprising regularity. In Sri Lanka, Internet shutdowns have been tactically deployed to geo-specific regions and specific platforms on three ...
+    摘要: 《新媒体与社会》第28卷第4期，第1504-1523页，2026年4月。<br />对世界各国政府而言，互联网关闭是应对社会动荡的应急方案，其发生频率之高令人惊讶。在斯里兰卡，互联网关闭曾被策略性地应用于特定地理区域和特定平台，共计三次……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251357264?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: Normative dislocation: When platforms moderate without memory
+    标题: 规范错位：当平台在无记忆状态下进行内容审核
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1437-1463, April 2026. <br />This article introduces the concept of normative dislocation to explain how platform moderation during Brazil’s 2022 presidential elections failed to account for local histories of political violence. Drawing on a digital methods analysis of militaristic ...
+    摘要: 《新媒体与社会》第28卷第4期，第1437-1463页，2026年4月。<br />本文引入“规范错位”概念，以解释平台在2022年巴西总统选举期间的审核机制如何未能回应当地政治暴力的历史脉络。研究通过对军事化……的数字方法分析……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251364814?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2025-01-13 06:48:15+00:00
+    标题: Covert political campaigning: Mapping the scope, scale, and cost of cross-platform election influence operations
+    标题: 隐蔽政治竞选：跨平台选举影响力操纵的范围、规模与成本分析
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1686-1709, April 2026. <br />This study investigates gray areas of contemporary political campaigning from a political economy perspective. Using qualitative field and digital methods, computational methods, and economic modeling, it analyzes the scope, scale, and cost of ...
+    摘要: 《新媒体与社会》第28卷第4期，第1686-1709页，2026年4月。<br />本研究从政治经济学视角探讨当代政治竞选的灰色地带。通过质性田野与数字方法、计算方法和经济建模，分析了……的范围、规模与成本。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448241312191?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (85 分)
+    时间: 2026-04-07 07:00:00+00:00
+    标题: Where the Ball Starts Rolling? An Empirical Investigation into Initial Opinion Formation on Social Media Platforms
+    标题: 舆论的起点何在？社交媒体平台初始观点形成的实证研究
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，印刷前。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1589?af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: Witnessing carnage: Self-documented terrorism and the moral challenges of decentralized digital platforms
+    标题: 目睹屠杀：自我记录的恐怖主义与去中心化数字平台的道德挑战
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1524-1549, April 2026. <br />On October 7, 2023, Hamas launched a coordinated attack on Israel, documenting atrocities through wearable cameras and disseminating footage on platforms like Telegram. This article investigates how these self-documented acts exemplify the erosion of ...
+    摘要: 《新媒体与社会》第28卷第4期，第1524-1549页，2026年4月。<br />2023年10月7日，哈马斯对以色列发动协同袭击，通过随身摄像机记录暴行，并在Telegram等平台传播影像。本文探讨这些自我记录行为如何典型地体现了……的消解。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251370967?ai=pih&mi=3fnskx&af=R
+
+- [Communication Research] (75 分)
+    时间: 2026-04-10 12:56:08+00:00
+    标题: Disentangling the Longitudinal Relationship Between Social Media Use, Political Expression and Political Participation: What Do We Really Know?
+    标题: 厘清社交媒体使用、政治表达与政治参与之间的纵向关系：我们究竟了解多少？
+    摘要: Communication Research, Ahead of Print. <br />The reciprocal associations between social media use, political expression, and political participation are central to communication scholars. The cross-lagged panel model (CLPM) represents a common and widely advocated analytic approach to test these ...
+    摘要: 《传播研究》在线优先出版。<br />社交媒体使用、政治表达与政治参与之间的相互关联是传播学者关注的核心议题。交叉滞后面板模型（CLPM）作为检验这些关系的常用分析方法，在学界得到广泛推崇与应用。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261430387?af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: Contextual governance & androcentric hegemony on Twitch.tv
+    标题: Twitch.tv平台上的情境治理与男性中心霸权
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1550-1570, April 2026. <br />Twitch’s Terms of Service (ToS) and Community Guidelines (CG) policies forbid discriminatory behavior and harassment, but many streamers from marginalized communities have been victimized while their harassers go unpunished. These inconsistencies in how ...
+    摘要: 《新媒体与社会》第28卷第4期，第1550-1570页，2026年4月。<br />Twitch平台的服务条款与社区准则政策虽明令禁止歧视性行为与骚扰，但许多边缘社群主播仍屡遭侵害，施害者却往往未受惩处。这种政策执行的不一致性……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251370965?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: The violence of online conspiracy theories
+    标题: 网络阴谋论的暴力性
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1464-1481, April 2026. <br />This article investigates the relationship between online conspiracy theory communities and platformed violence through a case study of a conspiratorial harassment campaign against a Danish children’s TV show, Uncle Shrimp (DR, 2012–), and its main actor. ...
+    摘要: 《新媒体与社会》第28卷第4期，第1464-1481页，2026年4月。<br />本文以丹麦儿童电视节目《虾叔叔》（DR，2012年至今）及其主演遭遇的阴谋论骚扰运动为案例，探讨网络阴谋论社群与平台化暴力之间的关系。……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251336431?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-04-03 07:19:47+00:00
+    标题: Rethinking the problem of misinformation and its solutions
+    标题: 反思错误信息问题及其解决方案
+    摘要: New Media & Society, Ahead of Print. <br />The way a problem is framed shapes its solutions. This article reframes the problem of misinformation and examines the implications of this shift for interventions against misinformation. It advances five arguments that challenge common narratives about ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发布。<br />问题的界定方式决定了其解决方案。本文重新审视了虚假信息的界定问题，并探讨了这一转变对打击虚假信息干预措施的影响。文章提出五个论点，对关于虚假信息的常见论述提出挑战……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261428635?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (75 分)
+    时间: 2026-04-11 06:51:16+00:00
+    标题: Just a meme? The role of context in mythologies of memetic misogyny
+    标题: 仅仅是个网络梗？语境在迷因式厌女神话中的角色
+    摘要: New Media & Society, Volume 28, Issue 4, Page 1592-1618, April 2026. <br />This article provides a multiplatform systematic analysis of contextual factors in what we termmemetic misogyny, a form of implicit, polysemous and ephemeral visual gender-based hate. We draw on a feminist ethnographic approach with a semiotic analysis ...
+    摘要: 《新媒体与社会》第28卷第4期，第1592-1618页，2026年4月。<br />本文对我们称之为“迷因厌女症”的现象进行了多平台系统性语境分析，这是一种隐含、多义且转瞬即逝的视觉性别仇恨形式。研究采用女性主义民族志方法，结合符号学分析……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251396942?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-04-08 10:36:54+00:00
+    标题: Compounded marginalization in social media politics: How religious and gender identities shape online harassment and the cost of political engagement
+    标题: 社交媒体政治中的复合边缘化：宗教与性别身份如何塑造网络骚扰及政治参与成本
+    摘要: New Media & Society, Ahead of Print. <br />This study examines the intersection of political social media use, online harassment resulting from political expression, and the perceived physical, social, and emotional costs of political engagement and how these dynamics differ across religion and ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />本研究探讨了政治性社交媒体使用、因政治表达引发的网络骚扰，以及政治参与所感知的身体、社交和情感成本之间的交叉关系，并分析了这些动态在不同宗教背景下的差异。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261430019?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (65 分)
+    时间: 2026-04-03 07:24:09+00:00
+    标题: The balancing act: User responsibility and platform accountability in the context of mental illness-related content consumption
+    标题: 平衡之道：心理健康相关内容消费中的用户责任与平台担当
+    摘要: New Media & Society, Ahead of Print. <br />Although social media platforms provide affirming information and interactions, they might also serve as venues to (re)traumatize individuals through exposure to sensitive content, especially related to mental illness (e.g. suicide, self-harm). Applying ...
+    摘要: 《新媒体与社会》期刊，印刷前在线发表。<br />尽管社交媒体平台提供了支持性信息与互动，但它们也可能成为通过接触敏感内容（尤其是与精神疾病相关的内容，如自杀、自残）对个体造成（再次）创伤的场所。本研究运用……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261435958?ai=pih&mi=3fnskx&af=R
