@@ -1,0 +1,89 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-05-01 15:21
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-29 03:18:44+00:00
+    标题: Charismatic machines: On the epistemic power of generative AI within platform convergence
+    标题: 魅力机器：论生成式AI在平台融合中的认知力量
+    摘要: New Media & Society, Ahead of Print. <br />This article develops a sociological theory of the epistemic power of generative AI within AI-centered platform convergence, as these systems are increasingly embedded in knowledge infrastructures. We define epistemic power as the capacity to structure ...
+    摘要: 《新媒体与社会》，在线优先出版。本文在社会学视角下，探讨生成式人工智能在以AI为核心的平台融合中的认知权力，这类系统正日益嵌入知识基础设施。我们将认知权力定义为：塑造知识生产、传播与验证框架的能力...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261441417?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-30 05:36:16+00:00
+    标题: Strategic visibility in precarious times: Ethnoreligious content creators and algorithmic navigation on Instagram
+    标题: 不确定时期的战略可见性：民族宗教内容创作者与Instagram上的算法导航
+    摘要: New Media & Society, Ahead of Print. <br />Content creators do not navigate social media through static decision-making; rather, their strategies respond to offline sociopolitical events that reshape their algorithmic environments. Ethnoreligious content creators navigate these precarious realms ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+内容创作者并非通过静态决策来驾驭社交媒体；相反，他们的策略会响应那些重塑其算法环境的线下社会政治事件。族裔宗教内容创作者在这些不稳定的领域中穿行……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261446580?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-04-29 09:31:43+00:00
+    标题: Disconnective practices and partisan polarization: Persian Twitter’s fragmented public sphere
+    标题: 断联实践与党派极化：波斯语推特碎片化的公共领域
+    摘要: New Media & Society, Ahead of Print. <br />This study examines disconnective behaviors and political polarization on Persian Twitter, highlighting block talk, selective avoidance, and political incivility. While Twitter’s role in polarization and fragmentation has been widely studied in Western ...
+    摘要: 《新媒体与社会》，在线优先出版。本研究探讨了波斯语推特上的断连行为与政治极化现象，重点分析了屏蔽言论、选择性回避及政治不文明行为。尽管推特在极化与碎片化中的作用已在西方语境中得到广泛研究……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261433479?ai=pih&mi=3fnskx&af=R
+
+- [Communication Research] (65 分)
+    时间: 2026-04-30 12:34:53+00:00
+    标题: Gains, Limits, and Side-Effects of Disinformation Interventions: Corrective Information and Self-Affirmation Assessed With Signal Detection Theory
+    标题: 虚假信息干预措施的收益、局限与副作用：基于信号检测理论对纠正性信息与自我肯定的评估
+    摘要: Communication Research, Ahead of Print. <br />This study examines the effects of corrective information and self-affirmation on evaluating political claims in two contexts: the Russian invasion of Ukraine and migration to Germany. In a two-wave online experiment in Germany (N= 1,275), participants ...
+    摘要: 《传播研究》，在线优先出版。  
+本研究探讨了纠正性信息与自我肯定对政治主张评估的影响，涉及两个情境：俄罗斯入侵乌克兰与德国移民问题。在德国开展的一项两波次在线实验（样本量=1,275）中，参与者……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261442623?af=R
+
+- [Information Systems Research] (30 分)
+    时间: 2026-04-30 07:00:00+00:00
+    标题: How Costs Influence Preferences for Control in Generative Artificial Intelligence (GenAI): Human-Guided vs. GenAI-Based Delegated Search
+    标题: 成本如何影响生成式人工智能（GenAI）中的控制偏好：人类引导型与GenAI委托型搜索的比较
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前在线出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.1836?af=R
+
+- [Communication Research] (20 分)
+    时间: 2026-04-29 10:19:03+00:00
+    标题: Theoretical Distinctions Between Emotion and Cognition Content in Supportive Messages: Examining Effects and Mediating Mechanisms
+    标题: 支持性信息中情绪与认知内容的理论区分：效应与中介机制探究
+    摘要: Communication Research, Ahead of Print. <br />What constitutes effective supportive message content is a topic of intense interdisciplinary scholarly interest and has palpable real-world implications for individuals’ well-being. Emotion and cognition content are two commonly theorized supportive ...
+    摘要: 《传播研究》，在线优先出版。  
+有效支持性信息内容的构成要素是跨学科学术界高度关注的议题，并对个体福祉具有切实的现实意义。情感内容与认知内容作为两种常见的理论化支持性要素...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261426538?af=R
+
+- [New Media & Society] (20 分)
+    时间: 2026-04-29 09:48:25+00:00
+    标题: Beyond exposure: Subjective appraisal of evening social media use
+    标题: 超越曝光：晚间社交媒体使用的主观评价
+    摘要: New Media & Society, Ahead of Print. <br />Research on evening social media use and sleep has yielded inconsistent findings, partly because exposure-based measures overlook how such use is experienced in context. To address this issue, this study examines how people make sense of their evening ...
+    摘要: 《新媒体与社会》，在线优先出版。  
+关于晚间社交媒体使用与睡眠的研究结果并不一致，部分原因在于基于使用时长的测量方法忽略了这种使用在具体情境中的体验。为解决这一问题，本研究探讨了人们如何理解其晚间……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261443637?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (20 分)
+    时间: 2026-04-30 07:00:00+00:00
+    标题: Prompt Adaptation as a Dynamic Complement in Generative AI Systems
+    标题: 提示适配作为生成式AI系统中的动态补充
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前在线发表。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.2029?af=R
+
+- [New Media & Society] (20 分)
+    时间: 2026-04-29 09:51:13+00:00
+    标题: Building intimacy with fans: A comparative study of self-presentation strategies of crowdfunded musicians on Patreon and YouTube
+    标题: 与粉丝建立亲密关系：Patreon与YouTube上众筹音乐人自我呈现策略的比较研究
+    摘要: New Media & Society, Ahead of Print. <br />This study explores how music content creators and musicians negotiate their online identities across Patreon and YouTube to cultivate digital intimacy. We conducted a comparative analysis of the self-presentation tactics employed by the top 20 music ...
+    摘要: 《新媒体与社会》，在线优先出版。本研究探讨音乐内容创作者与音乐人如何在Patreon和YouTube平台上协商其在线身份，以培养数字亲密关系。我们对比分析了排名前20的音乐创作者所采用的自我呈现策略……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261444346?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (10 分)
+    时间: 2026-04-30 07:00:00+00:00
+    标题: Priming in Search: A Large-Scale Field Experiment on the Impact of Popular Search Genres in Mobile Shopping
+    标题: 搜索中的启动效应：移动购物中热门搜索类型影响的大规模实地实验
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前在线发表。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1041?af=R
