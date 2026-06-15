@@ -1,0 +1,96 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-06-15 16:36
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Communication Research] (85 分)
+    时间: 2026-06-13 12:25:32+00:00
+    标题: When the Algorithm Understands You (or Doesn’t): LGBTQ+ Youth’s Identity-Related Interactions with Algorithmic Media
+    标题: 当算法理解你（或不理解你）时：LGBTQ+青年与算法媒体的身份相关互动
+    摘要: Communication Research, Ahead of Print. <br />During their daily media use, youth interact with algorithms. Drawing on the algorithm responsiveness process framework, this paper examines the co-construction of identity between youth and algorithmic media, focusing on perceived algorithm ...
+    摘要: 《传播研究》，在线优先出版。  
+在日常媒介使用中，青少年与算法产生互动。本文基于算法响应过程框架，探讨青少年与算法媒介之间的身份共构现象，重点关注感知算法...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261459750?af=R
+
+- [Communication Research] (60 分)
+    时间: 2026-06-10 02:03:17+00:00
+    标题: Two Forms of Media Distrust: Cynicism, Skepticism, and Online News Exposure
+    标题: 两种媒体不信任形式：犬儒主义、怀疑主义与在线新闻接触
+    摘要: Communication Research, Ahead of Print. <br />The relationship between trust in the news media and news use has been studied extensively, yet findings remain inconsistent. We argue that a key source of this inconsistency is the conflation of two distinct forms of media distrust: skepticism and ...
+    摘要: 《传播研究》，在线优先出版。  
+新闻媒体信任与新闻使用之间的关系已被广泛研究，但研究结果仍不一致。我们认为，这种不一致的关键来源在于两种不同形式的媒体不信任——怀疑主义与……——被混为一谈。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261458955?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: Beyond counting tweets: An exploration of scholarly conversations on Twitter
+    标题: 超越推文计数：探索Twitter上的学术对话
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 信息科学与技术协会期刊，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70097?af=R
+
+- [American Sociological Review] (20 分)
+    时间: 2026-06-10 05:12:08+00:00
+    标题: Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality
+    标题: 时间错位与不平等的能动性：晚期癌症患者教会我们的时间与不平等问题
+    摘要: American Sociological Review, Ahead of Print. <br />This article examines how time both exacerbates and destabilizes existing inequality by stratifying agency. Drawing on five years of fieldwork in nine cancer clinics and 196 in-depth interviews with 96 patients navigating a terminal cancer diagnosis ...
+    摘要: 《美国社会学评论》网络首发。本文通过分析时间如何分层化能动性，探讨其既加剧又动摇既有不平等的作用机制。基于对九家癌症诊所为期五年的田野调查，以及对96名面临晚期癌症诊断患者的196次深度访谈...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261448220?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: Cross‐disciplinary integration: Information practices and a role for information scholars. An annual review of information science and technology paper
+    标题: 跨学科整合：信息实践与信息学者的角色——信息科学与技术年度综述论文
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70085?af=R
+
+- [Communication Research] (20 分)
+    时间: 2026-06-13 12:50:00+00:00
+    标题: Co-Opetition in Crowdsourcing Challenges: Comment Network Dynamics and Relational Homophily Among Contestants in Crowdsourcing Challenge Communities
+    标题: 众包挑战中的合作竞争：众包挑战社区中参赛者的评论网络动态与关系同质性
+    摘要: Communication Research, Ahead of Print. <br />Situated in a creative crowdsourcing challenge organizational community, this research examines how different types of homophily affect network formation among ideators, the challenge innovators. Longitudinal analysis of comment network events among ...
+    摘要: 《传播研究》，在线优先出版。  
+本研究以创意众包挑战赛的组织社群为情境，探讨不同类型的同质性如何影响创意提出者（即挑战创新者）之间的网络形成。通过对评论网络事件的纵向分析……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261458941?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (10 分)
+    时间: NaT
+    标题: A systematic literature review of health‐related information on Question and Answer platforms
+    标题: 关于问答平台上健康相关信息的系统性文献综述
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70098?af=R
+
+- [American Sociological Review] (10 分)
+    时间: 2026-06-10 01:51:05+00:00
+    标题: Unstable Work in a Fissured Economy: Tracking Employment in Subcontractor Establishments in France
+    标题: 裂隙经济中的不稳定工作：追踪法国分包商企业的就业状况
+    摘要: American Sociological Review, Ahead of Print. <br />Many jobs in the twenty-first century have become short-term, precarious, and unstable. To help explain this phenomenon, I consider the fragmentation of economic activity across networks of transacting organizations—a trend known to affect pay, but with ...
+    摘要: 《美国社会学评论》网络首发。二十一世纪的许多工作已变得短期化、不稳定且缺乏保障。为解释这一现象，本文聚焦于经济活动在交易组织网络中的碎片化趋势——这一趋势已知会影响薪酬水平，但其对...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261448194?af=R
+
+- [International Journal of Press/Politics] (10 分)
+    时间: 2026-06-07 07:13:46+00:00
+    标题: Connecting Rural Appalachia to Clinical Research: The Ambassadors for Community Health Research Program as a Model for Trust Building
+    标题: 连接阿巴拉契亚农村地区与临床研究：社区健康研究大使计划作为建立信任的典范
+    摘要: Health Promotion Practice, Ahead of Print. <br />Medical mistrust in rural Appalachia, particularly in West Virginia, originates from a long history of institutional betrayal. Over time, experiences fostered intergenerational skepticism, embedding wariness of health care and research into Appalachian ...
+    摘要: 《健康促进实践》，在线优先出版。  
+阿巴拉契亚农村地区（尤其是西弗吉尼亚州）的医疗不信任源于长期存在的制度性背叛。随着时间的推移，这些经历催生了代际间的怀疑，将对医疗保健和研究的警惕深深植根于阿巴拉契亚文化之中……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261454695?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Cover Image
+    标题: 封面图片
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 7, Page C1-C1, July 2026.
+    摘要: 《信息科学与技术协会期刊》，第77卷，第7期，第C1-C1页，2026年7月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70099?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Issue Information
+    标题: 期刊信息
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 7, Page 889-889, July 2026.
+    摘要: 《信息科学与技术协会会刊》，第77卷，第7期，第889-889页，2026年7月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70100?af=R
