@@ -1,0 +1,97 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-06-29 16:18
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (30 分)
+    时间: NaT
+    标题: Affective dimensions in the information behavior of forcibly displaced people: A literature review. An Annual Review of Information Science and Technology (ARIST) paper
+    标题: 强制迁移人群信息行为中的情感维度：一项文献综述。《信息科学与技术年度评论》（ARIST）论文
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70093?af=R
+
+- [Communication Research] (30 分)
+    时间: 2026-06-23 06:47:26+00:00
+    标题: Fifty Years of Diversity in Communication and Media Studies (1974–2023): The Intertwined Trends in Geographic, Gender, and Methodological Representation
+    标题: 传播与媒体研究五十年的多样性（1974-2023）：地理、性别与方法论表征的交织趋势
+    摘要: Communication Research, Ahead of Print. <br />This study explored trends of diversity in Communication and Media Studies (CMS) between 1974 and 2023 through an automated content analysis of journal publications. An increasing proportion of first-authors from non-WEIRD countries and non-U.S. WEIRD ...
+    摘要: 《传播研究》，在线优先出版。  
+本研究通过自动化内容分析期刊论文，探讨了1974年至2023年间传播与媒体研究领域的多样性趋势。来自非WEIRD国家及非美国WEIRD国家的第一作者比例持续上升……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261454813?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: Evaluating the digital curation of library political special collections with the Honeycomb Model and Feminist Human‐Computer Interaction: Taipei City Council Library as a case study
+    标题: 以蜂巢模型与女性主义人机交互评估图书馆政治特藏的数字策展：以台北市议会图书馆为例
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70091?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: Methodological challenges in content‐based citation analysis: Expertise, reliability, and the primacy of citance identification
+    标题: 基于内容的引文分析中的方法论挑战：专业知识、可靠性及引文识别的主导地位
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70102?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: The hare and the tortoise: Open access publications' immediate impact and lasting advantage
+    标题: 野兔与乌龟：开放获取出版物的即时影响与持久优势
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70095?af=R
+
+- [Communication Research] (10 分)
+    时间: 2026-06-28 10:23:52+00:00
+    标题: Memorable Messages About Retirement, Own Communication About Financial Preparations for Retirement, and Successful Aging: Testing Theoretical Mechanisms in the Communicative Ecology Model of Successful Aging
+    标题: 关于退休的难忘信息、个人对退休财务准备的沟通以及成功老龄化：检验成功老龄化沟通生态模型中的理论机制
+    摘要: Communication Research, Ahead of Print. <br />This study addressed how communication about retirement fits in the communicative ecology model of successful aging (CEMSA). U.S. American older adults (N= 294,MAge= 59.27 years) reported on a memorable message they heard about retirement, as well as ...
+    摘要: 《传播研究》，在线优先出版。  
+本研究探讨了关于退休的沟通如何融入成功老龄化的沟通生态模型（CEMSA）。美国老年人（N=294，平均年龄=59.27岁）报告了他们听到的关于退休的难忘信息，以及……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261463578?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (10 分)
+    时间: NaT
+    标题: Beyond a number game: Flat team structures improve inclusion and performance in diverse scientific teams
+    标题: 超越数字游戏：扁平化团队结构提升多元化科学团队的包容性与绩效
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70083?af=R
+
+- [International Journal of Press/Politics] (10 分)
+    时间: 2026-06-23 12:00:01+00:00
+    标题: Step-By-Step: The BRIDGE Framework for Equitable Outreach to People Experiencing Homelessness
+    标题: 逐步推进：面向无家可归者的公平外展BRIDGE框架
+    摘要: Health Promotion Practice, Ahead of Print. <br />The needs of people experiencing homelessness (PEH) are at a modern high, yet health-promotion programs typically operate from clinic-based models that do not reliably reach unsheltered settings. Street engagement, conducted with community partners, can ...
+    摘要: 健康促进实践，在线优先出版。  
+无家可归者的需求已达到现代社会的最高水平，然而健康促进项目通常基于临床模式运作，难以有效覆盖露天居住环境。通过与社区伙伴合作开展的街头干预，可以……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261458260?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (5 分)
+    时间: NaT
+    标题: Information behavior in early childhood: A scoping review. An Annual Review of Information Science and Technology (ARIST) paper
+    标题: 幼儿期的信息行为：一项范围综述。《信息科学与技术年度评论》（ARIST）论文
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70103?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2026-06-19 10:21:29+00:00
+    标题: Express Yourself for Public Health Discussion Series: Strengthening the Public Health Workforce Through Career Development
+    标题: 公共卫生讨论系列之自我表达：通过职业发展加强公共卫生人才队伍建设
+    摘要: Health Promotion Practice, Ahead of Print. <br />Using evidence-based approaches grounded in science, public health professionals promote the well-being of individuals, families, and communities. Unfortunately, over the past year, the public health field and its science-based programs have been ...
+    摘要: 健康促进实践，在线优先出版。  
+公共卫生专业人员运用基于科学的循证方法，促进个人、家庭和社区的福祉。然而，在过去一年中，公共卫生领域及其科学导向的项目却遭遇了……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261458271?af=R
+
+- [International Journal of Press/Politics] (0 分)
+    时间: 2026-06-19 10:32:22+00:00
+    标题: The State of the Public Health Workforce: Rising Demand Amid Federal Challenges
+    标题: 公共卫生劳动力现状：联邦挑战下的需求增长
+    摘要: Health Promotion Practice, Ahead of Print. <br />Political skepticism and legislative threats like the One Big Beautiful Bill Act (OBBBA) currently shake the structures supporting public health. OBBBA seeks to de-professionalize our credentials by reducing federal loan caps from $50,000 to $20,500. It ...
+    摘要: 《健康促进实践》，在线优先出版。  
+政治怀疑主义以及诸如《一项宏大美丽法案》（OBBBA）等立法威胁，正动摇着支撑公共卫生的体系。OBBBA试图通过将联邦贷款上限从5万美元降至2.05万美元，来削弱我们的专业资质。它……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261458226?af=R
