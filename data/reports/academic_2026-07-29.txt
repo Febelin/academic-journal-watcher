@@ -1,0 +1,106 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-07-29 16:16
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (30 分)
+    时间: NaT
+    标题: How to make data valuable in digital humanities projects? Stages, archetypes, and guidelines for data practice
+    标题: 如何在数字人文项目中让数据变得有价值？数据实践的阶段、原型与指南
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70096?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (20 分)
+    时间: NaT
+    标题: Data management plans as anticipatory discursive infrastructure
+    标题: 数据管理计划作为前瞻性话语基础设施
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70086?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (10 分)
+    时间: NaT
+    标题: Incremental refinement of relevance rankings: Balancing relevance depth and scope
+    标题: 相关性排名的增量优化：平衡相关性的深度与广度
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70101?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (10 分)
+    时间: NaT
+    标题: The role of editorial boards in shaping scholarly communication: A large‐scale mapping of their composition and structure
+    标题: 编辑委员会在塑造学术交流中的作用：对其组成与结构的大规模映射分析
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会期刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70108?af=R
+
+- [Communication Research] (10 分)
+    时间: 2026-07-28 12:42:13+00:00
+    标题: The Bio-Functional Audience: Shared Physiological Alignment to Narrative Media
+    标题: 生物功能受众：对叙事媒体的共享生理对齐
+    摘要: Communication Research, Ahead of Print. <br />Communication research into audience responses has traditionally emphasized how individual or group differences create variance in interpretation while overlooking a more fundamental phenomenon: the capacity of the same message to induce similar responses ...
+    摘要: 《传播研究》，在线优先出版。  
+传统上，传播学对受众反应的关注侧重于个体或群体差异如何导致解读的多样性，却忽视了一个更根本的现象：同一信息引发相似反应的能力……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261472026?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (10 分)
+    时间: NaT
+    标题: Phantom citations: An empirical study of non‐existent and unverifiable references in scholarly literature
+    标题: 幽灵引用：学术文献中不存在的和无法验证的参考文献的实证研究
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会会刊》，早期在线版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70104?af=R
+
+- [Communication Research] (10 分)
+    时间: 2026-07-27 04:51:07+00:00
+    标题: Music Was My First Love: Biographic Resonance Makes Everyday Music Listening Meaningful
+    标题: 音乐是我的初恋：传记共鸣让日常音乐聆听变得有意义
+    摘要: Communication Research, Ahead of Print. <br />Despite much research on eudaimonic media experiences, little is known about how and why certain content is perceived as meaningful by certain users in certain situations. We therefore examine biographic resonance — connections between entertainment ...
+    摘要: 《传播研究》，在线优先出版。  
+尽管关于幸福型媒介体验的研究已相当丰富，但特定内容为何及如何在特定情境下被特定用户视为有意义，仍鲜有探讨。为此，我们聚焦于传记共鸣——娱乐内容与个体生命经历之间的联结机制……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261468400?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Issue Information
+    标题: 期刊信息
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 8, Page 1013-1013, August 2026.
+    摘要: 《信息科学与技术协会会刊》，第77卷，第8期，第1013-1013页，2026年8月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70107?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Cover Image
+    标题: 封面图片
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 8, Page C1-C1, August 2026.
+    摘要: 《信息科学与技术协会会刊》，第77卷，第8期，第C1-C1页，2026年8月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70106?af=R
+
+- [International Journal of Press/Politics] (0 分)
+    时间: 2026-07-28 11:15:43+00:00
+    标题: Developing an Educational Video to Promote University Students’ Awareness of Hearing Loss Caused by Personal Listening Devices
+    标题: 制作教育视频以提升大学生对个人听音设备导致听力损失的认识
+    摘要: Health Promotion Practice, Ahead of Print. <br />Background:This study aimed to evaluate the impact of a short educational video on students’ knowledge and attitudes regarding the risks associated with improper use of personal listening devices.Methods:The study employed a quasi-experimental design ...
+    摘要: 健康促进实践，在线优先出版。  
+背景：本研究旨在评估一段简短教育视频对学生关于不当使用个人收听设备相关风险的知识和态度的影响。  
+方法：本研究采用准实验设计……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261466160?af=R
+
+- [International Journal of Press/Politics] (0 分)
+    时间: 2026-07-28 11:09:38+00:00
+    标题: Health-Promoting Behaviours in Myanmar Migrants: Association With Acculturation, Perceived Stress, and Behaviour-Specific Cognitions and Affects
+    标题: 缅甸移民的健康促进行为：与文化适应、感知压力及行为特定认知与情感的关系
+    摘要: Health Promotion Practice, Ahead of Print. <br />Health-promoting behaviours (HPBs) in migrants are essential to protect their overall well-being. However, empirical evidence is lacking regarding the factors influencing HPBs in registered Myanmar migrants in Thailand. This study aimed to examine direct ...
+    摘要: 健康促进实践，在线优先出版。  
+移民的健康促进行为（HPBs）对其整体福祉至关重要。然而，关于影响在泰国注册的缅甸移民健康促进行为的因素，目前缺乏实证证据。本研究旨在探讨直接...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261466145?af=R
+
+- [International Journal of Press/Politics] (0 分)
+    时间: 2026-07-25 09:32:46+00:00
+    标题: An Exploratory Study of Sober Tailgate Programming at Colleges With Football Teams
+    标题: 大学橄榄球队清醒式车尾派对项目的探索性研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Heavy drinking is a core staple in the culture of college football tailgating. In response to the drinking culture of tailgates, scholars recommend that collegiate recovery programs (CRPs) implement innovative “sober tailgate” programming; however, little ...
+    摘要: 《健康促进实践》，在线优先出版。  
+豪饮是大学橄榄球赛前车尾派对文化的核心特征。针对这种饮酒文化，学者建议大学康复项目（CRPs）开展创新的“清醒车尾派对”活动；然而，目前尚缺乏...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261465309?af=R
