@@ -1,0 +1,92 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-08-01 15:56
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Information Systems Research] (85 分)
+    时间: 2026-07-30 07:00:00+00:00
+    标题: From Opacity to Transparency: User Behavior and Downstream Effects in Algorithmic Evaluation
+    标题: 从模糊到透明：算法评估中的用户行为与下游效应
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前印刷版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0579?af=R
+
+- [Information Systems Research] (75 分)
+    时间: 2026-07-22 07:00:00+00:00
+    标题: Asymmetric Algorithm Aversion
+    标题: 不对称算法厌恶
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，待刊。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0635?af=R
+
+- [Information Systems Research] (25 分)
+    时间: 2026-07-27 07:00:00+00:00
+    标题: The Interplay of Opinions and Behavior in Social Trading: The Dynamics of Early Cryptocurrency Adoption
+    标题: 社交交易中观点与行为的相互作用：早期加密货币采纳的动态机制
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前印刷版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1300?af=R
+
+- [Information Systems Research] (20 分)
+    时间: 2026-07-28 07:00:00+00:00
+    标题: Bounded Rationality in the Digital Age: How Salient Negative Secondhand Information on Knowledge-Sharing Platforms Triggers Investor Mis-Reactions
+    标题: 数字时代的有限理性：知识共享平台上显著的负面二手信息如何引发投资者误反应
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1248?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-31 07:00:00+00:00
+    标题: Does Modularity Coordinate? Disentangling Decoupling, Interfaces, and Design Rules via Simon’s Theory of the Artifact
+    标题: 模块化是否起到协调作用？——基于西蒙人工物理论对解耦、接口与设计规则的辨析
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.0444?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-29 07:00:00+00:00
+    标题: Predicting Consumer In-Store Purchase Through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach
+    标题: 通过实时视频分析预测消费者店内购买行为：一种先进的计算机视觉与深度学习方法
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，提前印刷版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0432?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-28 07:00:00+00:00
+    标题: Using Information Networks to Discover and Execute Marketing Brand Alliances: A Data-Driven Framework for Actionable Insights
+    标题: 利用信息网络发现并执行营销品牌联盟：一个面向可操作洞察的数据驱动框架
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.1792?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-23 07:00:00+00:00
+    标题: Generative AI and Price Discrimination in the Housing Market
+    标题: 生成式人工智能与住房市场中的价格歧视
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1234?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-15 07:00:00+00:00
+    标题: Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention
+    标题: 基于多图注意力的可解释推荐与参数锚定大语言模型解释
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0549?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-15 07:00:00+00:00
+    标题: Agency Configurations in Generative AI Ideation: How Textual and Visual Idea Concretizations Shape Idea Creativity and Ideator Effort
+    标题: 生成式人工智能构思中的主体配置：文本与视觉想法具体化如何影响创意生成与构思者投入
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，待刊。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.0952?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-07-15 07:00:00+00:00
+    标题: Let It Ride! An Empirical Investigation of Problem Gambling and the Implications of Legalized Online Sports Betting
+    标题: 让它跑吧！问题赌博的实证研究及合法化在线体育博彩的启示
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印本。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1526?af=R
