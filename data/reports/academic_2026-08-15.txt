@@ -1,0 +1,119 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-08-15 15:14
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (95 分)
+    时间: 2026-05-20 09:55:28+00:00
+    标题: The Memeplex: Platform grammars and conspiratorial alignment around the Great Reset
+    标题: 迷因复合体：平台语法与大重置阴谋论的对齐
+    摘要: New Media & Society, Ahead of Print. <br />This article examines how platform grammars reorganize institutional communication into environments of suspicion, using the World Economic Forum’s “Great Reset” as a key case. Drawing on a corpus of 3.7 million tweets (2015–2022), co-hashtag network ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+本文以世界经济论坛的“大重构”为关键案例，探讨平台语法如何将机构传播重组为充满猜疑的环境。基于370万条推文（2015—2022年）的语料库，通过共现标签网络……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261446931?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (95 分)
+    时间: 2025-07-15 11:12:27+00:00
+    标题: Priorities and exclusions within Trust and Safety industry standards
+    标题: 信任与安全行业标准中的优先级与排除项
+    摘要: New Media & Society, Volume 28, Issue 8, Page 3986-4010, August 2026. <br />Platform governance is simultaneously a matter of public concern and a professional calling for Trust and Safety, the nascent field tasked with setting and enforcing standards of acceptable behavior on digital platforms. Yet we know little about how the ...
+    摘要: 《新媒体与社会》，第28卷，第8期，第3986-4010页，2026年8月。平台治理既是公众关注的问题，也是“信任与安全”这一新兴领域的职业使命，该领域负责制定并执行数字平台上可接受行为的标准。然而，我们对……知之甚少。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251357225?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (95 分)
+    时间: 2025-07-30 06:03:52+00:00
+    标题: Attributing coordinated social media manipulation: A theoretical model and typology
+    标题: 归因于协调性社交媒体操纵：一个理论模型与类型学
+    摘要: New Media & Society, Volume 28, Issue 8, Page 3759-3780, August 2026. <br />Social media are key arenas for public opinion formation, but are susceptible to coordinated social media manipulation (CSMM), that is, the orchestrated activity of multiple accounts to increase content visibility and deceive audiences. Despite advances ...
+    摘要: 《新媒体与社会》，第28卷，第8期，第3759-3780页，2026年8月。
+
+社交媒体是舆论形成的关键场域，但易受协调式社交媒体操纵（CSMM）的影响，即多个账户协同活动以提升内容可见度并欺骗受众。尽管已有进展……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251350100?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-06-29 10:22:45+00:00
+    标题: #NationalityofMen: The gamification of racialized attractiveness as entertainment laundering on TikTok
+    标题: #男性的民族性：TikTok上种族化吸引力游戏化作为娱乐洗白的手段
+    摘要: New Media & Society, Ahead of Print. <br />This article examines the viral TikTok trend #NationalityOfMen—a seemingly trivial Effect that invites users to rank men from 10 “nationalities.” Extending scholarship on racialized beauty standards and digital media, we systematically scrutinize the ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+本文考察了TikTok上病毒式传播的潮流话题#NationalityOfMen——一个看似琐碎的特效，邀请用户对来自10个“国籍”的男性进行排名。在种族化审美标准与数字媒体相关研究的基础上，我们系统性地审视了……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261456237?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-06-12 05:29:46+00:00
+    标题: The celebration of exploitation: A case study in platform promotion of users’ data
+    标题: 剥削的颂扬：平台推广用户数据的案例研究
+    摘要: New Media & Society, Ahead of Print. <br />This article explores how a large digital platform exploits its user data to legitimise itself through the tone, form and content of its public-facing outputs. Our case study is the annualInsights(Year in Review) reports released by the pornographic ...
+    摘要: 《新媒体与社会》，网络首发。
+
+本文探讨了一个大型数字平台如何利用其用户数据，通过其对外公开内容的语气、形式与内容来实现自我合法化。我们的案例研究对象是某色情平台发布的年度《洞察》（年度回顾）报告。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261453296?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-06-30 06:03:01+00:00
+    标题: Do news access pathways moderate filter bubbles? Evidence from a longitudinal analysis of data donations
+    标题: 新闻获取路径是否调节过滤气泡？来自数据捐赠纵向分析的证据
+    摘要: New Media & Society, Ahead of Print. <br />News access pathways shape the informational diversity of users’ news repertoires, with distributed modes such as search and social media generally providing broader exposure than direct navigation. Yet whether these differences produce filter bubble ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+新闻获取路径塑造了用户新闻组合的信息多样性，其中搜索和社交媒体等分布式模式通常比直接导航提供更广泛的接触面。然而，这些差异是否会产生过滤气泡……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261445423?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-06-24 05:01:42+00:00
+    标题: Negotiating digital identity and conditional voice under algorithmic power: Gojek drivers’ online communities in Indonesia
+    标题: 算法权力下的数字身份协商与条件性发声：印尼Gojek司机在线社群研究
+    摘要: New Media & Society, Ahead of Print. <br />Digital platforms increasingly structure how workers communicate, construct identity, and express dissent under algorithmic governance. While gig work research has emphasized precarity and control, less attention has been paid to how identity and voice ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+数字平台日益塑造着工人在算法治理下沟通、构建身份及表达异议的方式。尽管零工经济研究已强调不稳定性和控制，但对身份与声音如何...的关注仍显不足。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261452615?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-07-15 03:55:57+00:00
+    标题: Negotiating algorithmic time: Confucian folk theory of older Chinese adults on Douyin
+    标题: 协商算法时间：中国老年用户在抖音上的儒家民间理论
+    摘要: New Media & Society, Ahead of Print. <br />While research has focused on algorithmic content selection, older adults’ temporal negotiations remain understudied. Through abductive analysis—a recursive, theory-building method that moves between data and interpretation—we examine interviews, think-...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+尽管已有研究聚焦于算法内容选择，但老年人对时间的协商仍鲜少被探讨。通过溯因分析——一种在数据与解释之间往复递归、建构理论的方法——我们考察了访谈、思考……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261467157?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-07-21 08:49:26+00:00
+    标题: Learning the algorithm: Responsibilization and the limits of agency on YouTube
+    标题: 学习算法：YouTube上的责任化与能动性的限度
+    摘要: New Media & Society, Ahead of Print. <br />Content creators invest extensive effort in “learning the algorithm” to secure visibility and growth. While existing research documents the proliferation of folk theories and optimization strategies, less attention has been paid to the structural ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+内容创作者投入大量精力“学习算法”，以确保可见性和增长。尽管现有研究记录了民间理论与优化策略的普及，但对结构性……的关注相对较少。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261467161?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (85 分)
+    时间: 2026-08-05 07:00:00+00:00
+    标题: Mitigating Privacy Tension: The Role of Active Privacy Transparency in Privacy Granting, Trust Decline, and Negative Word-of-Mouth
+    标题: 缓解隐私张力：主动隐私透明在隐私授权、信任下降与负面口碑中的作用
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，待刊。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0134?af=R
+
+- [New Media & Society] (85 分)
+    时间: 2026-05-25 12:33:47+00:00
+    标题: Brain rot: Cognitive decomposition as a structural externality of attention assetization
+    标题: 脑腐：认知分解作为注意力资产化的结构性外部效应
+    摘要: New Media & Society, Ahead of Print. <br />While brain rot has entered the popular lexicon as a marker of cultural-intellectual decline, this article theorizes it as a systemic condition of late-capitalist survival. Integrating world-systems analysis with the critique of the attention economy, I ...
+    摘要: 《新媒体与社会》，在线优先出版。
+
+尽管“脑腐”已作为文化-智力衰退的标志进入流行语汇，本文将其理论化为晚期资本主义生存的一种系统性状况。通过将世界体系分析与对注意力经济的批判相结合，我……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261448834?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (85 分)
+    时间: 2025-07-16 02:39:06+00:00
+    标题: National security versus freedom of speech: How media exposure, personal values, and media framing influence non-users’ support for a national ban on TikTok
+    标题: 国家安全与言论自由：媒体接触、个人价值观与媒体框架如何影响非用户对TikTok国家禁令的支持
+    摘要: New Media & Society, Volume 28, Issue 8, Page 3732-3758, August 2026. <br />Our study examines how external factors, including media exposure, personal values, and media framing (i.e. national security vs free speech), influence non-users’ support for a national TikTok ban in the United States via an online experiment-embedded ...
+    摘要: 《新媒体与社会》，第28卷，第8期，第3732-3758页，2026年8月。  
+本研究通过一项嵌入在线实验的调查，考察了外部因素——包括媒体接触、个人价值观以及媒体框架（即国家安全与言论自由之争）——如何影响非用户对美国全国性TikTok禁令的支持。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448251349427?ai=pih&mi=3fnskx&af=R
