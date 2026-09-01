@@ -1,0 +1,110 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-09-01 18:06
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Communication Research] (85 分)
+    时间: 2026-08-17 10:30:11+00:00
+    标题: What Do We Mean by Transparency? Conceptualizing and Operationalizing Transparency in Communication
+    标题: 我们所说的透明度是什么意思？传播中透明度的概念化与操作化
+    摘要: Communication Research, Ahead of Print. <br />By analyzing 164 articles from communication journals published between 2002 and 2024, this scoping review systematically investigates temporal trends, conceptualizations, and operationalizations of transparency research within communication studies. The ...
+    摘要: 《传播研究》，在线优先出版。通过分析2002年至2024年间发表于传播学期刊的164篇文章，本范围综述系统考察了传播学领域中透明度研究的时间趋势、概念化及操作化方式。……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261470088?af=R
+
+- [Communication Research] (85 分)
+    时间: 2026-08-26 12:49:01+00:00
+    标题: Less Effort to Believe and More Effort to Disbelieve: Examining the Interplay between News-Finds-Me and Affective Polarization in Political Fake News Susceptibility in the United States
+    标题: 更少的相信努力与更多的质疑努力：探究美国政治假新闻易感中“新闻找上门”与情感极化的交互作用
+    摘要: Communication Research, Ahead of Print. <br />Drawing upon an online survey of 719 US adult partisans incorporating response latency data, we connected News-Finds-Me (NFM) to the partisan-motivated reasoning literature and theorized it as a consensus-based mode of news exposure that leads to ...
+    摘要: 《传播研究》，在线优先出版。基于一项包含反应时数据的719名美国成年党派成员在线调查，我们将“新闻找我”（NFM）与党派动机推理文献相联系，并将其理论化为一种基于共识的新闻接触模式，该模式导致……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261472023?af=R
+
+- [American Sociological Review] (25 分)
+    时间: 2026-08-28 02:45:14+00:00
+    标题: How Norms Depend on the Presence and Status of Observers: The Relational Contingency of Everyday Behaviors in 90 Societies
+    标题: 规范如何依赖于观察者的在场与地位：90个社会中日常行为的关联性偶变
+    摘要: American Sociological Review, Ahead of Print. <br />Norms are fundamental to social life, but basic questions about how they are affected by social context remain. Specifically, how do normative constraints depend on the presence and status of observers, and how do such relational contingencies vary across ...
+    摘要: 《美国社会学评论》，网络首发。
+
+规范是社会生活的基础，但关于它们如何受社会情境影响的基本问题仍未解决。具体而言，规范约束如何依赖于观察者的在场及其地位，以及这种关系性权变在不同情境中如何变化……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261464586?af=R
+
+- [Communication Research] (15 分)
+    时间: 2026-08-31 02:54:41+00:00
+    标题: Sex, Romance, or Recreation? An Experiment Testing the Effects of Cannabis Brand-generated Social Media Ads on College Students’ Expectancies and Intentions to Use Cannabis Prior to Sex
+    标题: 性、浪漫还是娱乐？一项检验大麻品牌社交媒体广告对大学生性行为前大麻使用预期与使用意图影响的实验
+    摘要: Communication Research, Ahead of Print. <br />Sexual and romantic scripts are used to market cannabis products, now legal for adult-use in several U.S. states. We conducted an online experiment (N= 747) examining the impact of viewing brand-generated social media posts promoting cannabis that ...
+    摘要: 《传播研究》，在线优先出版。
+
+性与浪漫脚本被用于大麻产品的营销，而大麻目前在美国多个州已合法供成人使用。我们开展了一项在线实验（N=747），考察观看品牌生成的社交媒体帖子推广大麻的影响，这些帖子……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261480401?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-08-04 11:53:39+00:00
+    标题: Cultural Tailoring and Anti-Smoking Messaging: A Formative Study on the Effect of Tailored Messages for Young Adult Sexual Minority Women
+    标题: 文化定制与反吸烟信息传播：一项关于针对年轻成年性少数女性定制信息效果的 formative 研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Cultural tailoring is increasingly recognized in sexual and gender minority (SGM) focused health interventions, yet its effectiveness in anti-smoking messages for sexual minority women (SMW) remains underexplored. This formative study examined how ...
+    摘要: 健康促进实践，提前在线发表。<br />文化定制在针对性与性别少数群体（SGM）的健康干预中日益受到重视，但其在面向性少数女性（SMW）的控烟信息中的有效性仍未得到充分探讨。本形成性研究考察了……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261468676?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-07-19 02:14:13+00:00
+    标题: Building Digital Health Communication Capacity: A Process Evaluation of the Infodemiology Training Program
+    标题: 建设数字健康传播能力：信息流行病学培训项目的过程评估
+    摘要: Health Promotion Practice, Ahead of Print. <br />The COVID-19 pandemic accelerated demand for public health professionals trained in infodemiology, or the science of using health-related information, particularly in digital environments, to inform public health decision-making. To build workforce ...
+    摘要: 《健康促进实践》，印刷前在线发表。
+
+新冠疫情加速了对接受过信息流行病学培训的公共卫生专业人才的需求，信息流行病学是一门利用健康相关信息（尤其是在数字环境中）来指导公共卫生决策的科学。为培养劳动力……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261465408?af=R
+
+- [Communication Research] (15 分)
+    时间: 2026-08-25 06:39:31+00:00
+    标题: From Exposure to Creation: Cultivating Narrative Ownership to Reduce Stigma
+    标题: 从接触到创作：培养叙事所有权以减轻污名化
+    摘要: Communication Research, Ahead of Print. <br />Stories are powerful agents of attitude change, including attitudes toward stigmatized groups. However, existing theories have focused on narrative exposure, with limited attention to narrative creation. Creating a story involves simulating characters and ...
+    摘要: 《传播研究》，在线优先出版。故事是态度改变的强大动因，包括对受污名群体的态度。然而，现有理论主要关注叙事接触，而对叙事创作关注有限。创作故事涉及对角色及其...的模拟。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261478972?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-08-25 07:53:18+00:00
+    标题: Lessons Learned From Digital Inclusion Initiatives in Rural Communities
+    标题: 农村社区数字包容倡议的经验教训
+    摘要: Health Promotion Practice, Ahead of Print. <br />As researchers, policymakers, and community organizations continue to invest in digital inclusion initiatives in rural communities, it is important for stakeholders to build upon past efforts to enhance what has been effective and address previous ...
+    摘要: 《健康促进实践》，印刷前在线发表。
+
+随着研究人员、政策制定者和社区组织持续在农村社区投资数字包容项目，利益相关方有必要在既往工作的基础上，进一步巩固行之有效的做法，并解决以往存在的……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261477403?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-08-19 06:13:43+00:00
+    标题: Promoting Health Through Empowerment: Pilot Evaluation of a Youth Participatory Action Research Program
+    标题: 通过赋权促进健康：青少年参与式行动研究项目的试点评估
+    摘要: Health Promotion Practice, Ahead of Print. <br />Youth participatory action research (YPAR) elevates youth as change agents in their schools and communities. The YPAR studies have demonstrated impact on psychological empowerment and civic engagement, both thought to lead to improved health. This ...
+    摘要: 健康促进实践，印刷前在线发表。<br />青年参与式行动研究（YPAR）将青年提升为学校与社区中的变革推动者。YPAR研究已显示出对心理赋权和公民参与的影响，这两者均被认为有助于改善健康状况。该……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261474516?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2026-09-01 07:00:15+00:00
+    标题: Vision, Votes, and Voices: Civic Health Equity in HPP
+    标题: 愿景、选票与声音：《健康促进实践》中的公民健康公平
+    摘要: Health Promotion Practice, Volume 27, Issue 5, Page 797-800, September 2026. <br />
+    摘要: 《健康促进实践》，第27卷，第5期，第797-800页，2026年9月。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261463698?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2026-08-28 07:30:11+00:00
+    标题: Effectiveness of Social Cognitive Theory–Based Oral Cancer Awareness Module Among Adolescents: An Interventional Study
+    标题: 基于社会认知理论的口腔癌认知模块在青少年中的有效性：一项干预性研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Oral cancer remains a significant public health challenge, particularly in India, where it accounts for a substantial global burden. Despite its preventability, awareness levels among adolescents remain low. Schools provide an ideal platform for health ...
+    摘要: 《健康促进实践》，印刷前在线发表。
+
+口腔癌仍然是一项重大的公共卫生挑战，尤其在印度，该国承担了相当可观的全球疾病负担。尽管这种疾病是可以预防的，但青少年中的认知水平仍然较低。学校为健康……提供了理想的平台。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261478888?af=R
+
+- [International Journal of Press/Politics] (5 分)
+    时间: 2026-08-25 10:10:00+00:00
+    标题: A Needs Assessment for Type 2 Diabetes Prevention at a Community Food Bank in British Columbia, Canada
+    标题: 加拿大不列颠哥伦比亚省社区食品银行2型糖尿病预防需求评估
+    摘要: Health Promotion Practice, Ahead of Print. <br />People experiencing food insecurity experience higher rates of type 2 diabetes (T2D) than those who are food secure. Small Steps for Big Changes (SSBC) is a T2D prevention program in Kelowna, British Columbia, Canada. This study aimed to learn the factors ...
+    摘要: 健康促进实践，印刷前在线发表。经历食物不安全的人群比食物安全人群的2型糖尿病（T2D）患病率更高。“小步迈向大改变”（SSBC）是加拿大不列颠哥伦比亚省基洛纳市的一项2型糖尿病预防项目。本研究旨在了解相关因素……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261477713?af=R
