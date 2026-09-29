@@ -1,0 +1,102 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-09-29 19:44
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (85 分)
+    时间: NaT
+    标题: Conceptualizing algorithmic inequality and future agenda. An annual review of information science and technology (ARIST) paper
+    标题: 算法不平等概念的界定与未来议程。《信息科学与技术年度评论》（ARIST）论文
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 信息科学与技术协会杂志，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70114?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (65 分)
+    时间: NaT
+    标题: AI and the layered evolution of information landscapes
+    标题: 人工智能与信息景观的层次化演变
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 信息科学与技术协会杂志，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70120?af=R
+
+- [American Sociological Review] (45 分)
+    时间: 2026-09-24 08:45:04+00:00
+    标题: Connective Resource Mobilization: A Relational Approach to Movement Continuity in Transnational Activism
+    标题: 连接性资源动员：跨国行动主义中运动持续性的关系路径
+    摘要: American Sociological Review, Ahead of Print. <br />Social movement studies have long centered social movement organizations (SMOs) as the primary vehicles of mobilization. Yet contemporary movements are increasingly decentralized and digitally mediated, challenging SMO-centric frameworks such as resource ...
+    摘要: 《美国社会学评论》，提前在线出版。<br />社会运动研究长期以来一直将社会运动组织（SMOs）视为动员的主要载体。然而，当代运动日益去中心化并借助数字媒介，这对以社会运动组织为中心的框架，如资源...提出了挑战。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261475572?af=R
+
+- [Communication Research] (35 分)
+    时间: 2026-09-25 05:21:42+00:00
+    标题: Democratic Media Performance and Democratization: A Global Longitudinal Perspective
+    标题: 民主媒体表现与民主化：全球纵向视角
+    摘要: Communication Research, Ahead of Print. <br />Media that effectively perform their democratic functions are widely considered a key driver of democratization, yet longitudinal evidence on their impact remains limited. This study analyzed global annual time-series data on democratic media performance ...
+    摘要: 传播研究，提前在线出版。
+
+有效履行其民主功能的媒体被广泛认为是民主化的关键驱动力，然而关于其影响的纵向证据仍然有限。本研究分析了全球年度时间序列数据中民主媒体表现...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261489667?af=R
+
+- [American Sociological Review] (35 分)
+    时间: 2026-09-16 02:34:31+00:00
+    标题: Strategic Inversion: How Refugees Reconfigure Everyday Resistance under Benevolent Oppression
+    标题: 战略性反转：难民如何在仁慈压迫下重构日常抵抗
+    摘要: American Sociological Review, Ahead of Print. <br />What does everyday resistance look like among dominated populations experiencing paternalistic care rather than extraction? Research on everyday resistance emerged from contexts where power extracts surplus from the oppressed. In this scholarship, the ...
+    摘要: 《美国社会学评论》，提前在线出版。<br />当被支配群体接受的是家长式关怀而非剥削时，他们的日常抵抗呈现何种面貌？日常抵抗的研究源自权力从被压迫者身上榨取剩余价值的背景。在这类学术研究中，……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261476317?af=R
+
+- [American Sociological Review] (35 分)
+    时间: 2026-09-17 09:19:32+00:00
+    标题: Organizational Consolidation: How Organizations Reflect or Refract Societal Hierarchies
+    标题: 组织整合：组织如何反映或折射社会等级结构
+    摘要: American Sociological Review, Ahead of Print. <br />To understand how organizations distribute resources, we need to understand how they come to evaluate their members as worthy. This article introduces “organizational consolidation”: the degree to which ascriptive statuses—race, gender, class—align with ...
+    摘要: 《美国社会学评论》，提前在线出版。<br />要理解组织如何分配资源，我们需了解它们是如何评定其成员价值的。本文引入“组织固化”概念：即归属地位——种族、性别、阶级——与……的一致程度。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261475238?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (35 分)
+    时间: NaT
+    标题: Reframing technology readiness research: A three? Decade systematic review of conceptual shifts, thematic patterns, and scholarly gaps (2000–2025). An Annual Review of Information Science and Technology (ARIST) paper
+    标题: 重构技术就绪度研究：三十年来概念演变、主题模式与学术空白的系统综述（2000–2025）。《信息科学与技术年度评论》（ARIST）论文
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 信息科学与技术协会杂志，早期视图。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70119?af=R
+
+- [International Journal of Press/Politics] (15 分)
+    时间: 2026-09-19 09:45:13+00:00
+    标题: What Can a Badge Do? A Pilot Study of the Vot-ER Badge in a Community Health Setting
+    标题: 徽章能做什么？Vot-ER徽章在社区健康环境中的初步研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Civic engagement is an important example of health and health care inequity in the United States, with voting being an active form of civic engagement that allows citizens to be involved in the political processes that directly impact their health. ...
+    摘要: 健康促进实践，提前在线出版。<br />公民参与是美国健康与医疗保健不平等的一个重要例证，其中投票是一种积极的公民参与形式，使公民能够参与到直接影响其健康的政治进程中。...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261481144?af=R
+
+- [International Journal of Press/Politics] (12 分)
+    时间: 2026-09-18 07:55:12+00:00
+    标题: Strengthening Youth Crisis Reporting and Response: Development of a Practice-Based Systems Maturity Model
+    标题: 加强青年危机报告与响应：基于实践的系统成熟度模型开发
+    摘要: Health Promotion Practice, Ahead of Print. <br />Youth suicide prevention and crisis response require coordinated action across public health, behavioral health, education, health care, law enforcement, and community systems. However, local jurisdictions often lack practical tools to assess system ...
+    摘要: 健康促进实践，提前在线出版。<br />青少年自杀预防和危机应对需要公共卫生、行为健康、教育、医疗保健、执法和社区系统之间的协调行动。然而，地方辖区往往缺乏实用工具来评估系统……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261485283?af=R
+
+- [Communication Research] (10 分)
+    时间: 2026-09-19 10:21:34+00:00
+    标题: When Past Hurt Meets Present Care: How Family History Shapes Adult Caregivers’ Communal Coping With Siblings in Their Caregiving for Parents With Health Challenges
+    标题: 当过往的伤痛遇上当下的关怀：家庭历史如何塑造成年照护者在照顾有健康挑战的父母时与兄弟姐妹的共同应对
+    摘要: Communication Research, Ahead of Print. <br />This sequential, explanatory mixed-methods study explores how adult caregivers’ perceived family functioning and unresolved hurt toward siblings from childhood are associated with their present-day communal coping (CC) with their siblings and caregiving ...
+    摘要: 《传播研究》，提前在线出版。<br />这项顺序解释性混合方法研究探讨了成年照护者感知到的家庭功能以及童年时期对兄弟姐妹未解决的情感伤害，如何与他们当前与兄弟姐妹的共同应对（CC）及照护……相关联。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261484417?af=R
+
+- [International Journal of Press/Politics] (10 分)
+    时间: 2026-09-18 11:37:10+00:00
+    标题: Promoting Health Equity Through Tax-Funded Zero-Fare Public Transit: A Survey of Voters From Kansas City, MO
+    标题: 通过税收资助的零票价公共交通促进健康公平：来自密苏里州堪萨斯城选民的调查
+    摘要: Health Promotion Practice, Ahead of Print. <br />Public transportation has positive impacts for both individual and community health, but funding and scalability are political challenges. Understanding civic processes, such as voting, is key to advancing health equity through large-scale policy change. ...
+    摘要: 健康促进实践，提前在线出版。<br />公共交通对个人和社区健康都有积极影响，但资金和可扩展性是政治挑战。理解公民过程，如投票，是通过大规模政策变革推进健康公平的关键。...
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261486435?af=R
+
+- [Communication Research] (10 分)
+    时间: 2026-09-26 06:54:33+00:00
+    标题: Predicting Irritation Disclosures in Romantic Relationships: Testing and Extending the Revelation Risk Model
+    标题: 预测恋爱关系中的烦恼披露：对揭示风险模型的检验与扩展
+    摘要: Communication Research, Ahead of Print. <br />Feelings of irritation often emerge in romantic relationships. However, the theoretical mechanisms predicting whether individuals disclose these feelings to their romantic partner remain limited and largely reliant on examining indicators of future ...
+    摘要: 《传播研究》，提前在线出版。<br />在恋爱关系中，烦躁情绪时常浮现。然而，预测个体是否会向伴侣透露这些情绪的理论机制仍较为有限，且很大程度上依赖于对未来指标的考察……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261490466?af=R
