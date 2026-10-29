@@ -1,0 +1,101 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-10-29 20:00
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Communication Research] (72 分)
+    时间: 2026-10-17 07:32:01+00:00
+    标题: Two Paths of Conversation: How Stories and Statistics are Associated With Community Engagement in Online Debate Surrounding Vaccine Science Skeptical Content
+    标题: 对话的两条路径：故事与统计数据如何与围绕疫苗科学怀疑内容的在线辩论中的社区参与相关联
+    摘要: Communication Research, Ahead of Print. <br />Statistical and narrative evidence represent two distinct ways of substantiating claims in public reasoning, but does this distinction matter for how people engage with vaccine science skeptical (VSS) content and the discursive spaces surrounding it? This ...
+    摘要: 传播研究，提前在线发布。<br />统计证据与叙事证据代表了公共推理中证实主张的两种不同方式，但这种区分对于人们如何接触疫苗科学怀疑（VSS）内容及其周围的话语空间是否重要？这……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261496144?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (65 分)
+    时间: NaT
+    标题: Emerging research information practices in the era of generative artificial intelligence
+    标题: 生成式人工智能时代的新兴研究信息实践
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70124?af=R
+
+- [New Media & Society] (62 分)
+    时间: 2026-10-21 05:47:37+00:00
+    标题: Guardians of the cyberverse: Dispositional, attitudinal, and autobiographical correlates of user engagement against misogynist digital hate
+    标题: 网络空间的守护者：用户参与对抗厌女数字仇恨的特质、态度与自传性相关因素
+    摘要: New Media & Society, Ahead of Print. <br />As digital misogyny remains widespread, user intervention is an essential complement to lenient platform governance. Yet, willingness to intervene varies considerably across individuals and cultural contexts. In a cross-national survey conducted in ...
+    摘要: 《新媒体与社会》，提前在线出版。  
+在数字厌女现象依然普遍的情况下，用户干预是对宽松平台治理的重要补充。然而，干预意愿因个人和文化背景的不同而差异显著。在一项跨国调查中……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261492098?ai=pih&mi=3fnskx&af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (35 分)
+    时间: NaT
+    标题: Did AI win after all?
+    标题: 人工智能最终赢了吗？
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70133?af=R
+
+- [Communication Research] (35 分)
+    时间: 2026-10-18 06:20:37+00:00
+    标题: Constantly Connected, Differently Affected: Response Speed Shapes Parents’ and Adolescents’ Feelings of Connection
+    标题: 持续连接，影响各异：回应速度塑造父母与青少年的连接感
+    摘要: Communication Research, Ahead of Print. <br />Response speed in digital communication serves as a signal of availability, yet past research has overlooked how speed expectations in specific relationships translate into social connection. This study addresses this oversight by integrating theoretical ...
+    摘要: 《传播研究》，提前在线出版。<br />数字传播中的响应速度是可用性的信号，然而过往研究忽视了特定关系中的速度期望如何转化为社会连接。本研究通过整合理论……来弥补这一疏忽。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261494013?af=R
+
+- [Information Systems Research] (35 分)
+    时间: 2026-10-20 07:00:00+00:00
+    标题: Seeing Less, Engaging More: Rethinking Early User Experience on Generative AI Cocreation Platforms—Findings from a Field Experiment
+    标题: 看得更少，参与更多：重新思考生成式人工智能共创平台上的早期用户体验——来自实地实验的发现
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，预出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1200?af=R
+
+- [American Sociological Review] (35 分)
+    时间: 2026-10-25 06:21:12+00:00
+    标题: What Do “Most People” Believe? Race, Gender, and the Generalized Other
+    标题: “大多数人”相信什么？种族、性别与泛化他者
+    摘要: American Sociological Review, Ahead of Print. <br />When people form beliefs in social life, they often calibrate their own thinking against what they anticipate “most people” think. Although prior research demonstrates the importance of these inferences, scholars have yet to examine who is best proxied by ...
+    摘要: 美国社会学评论，提前在线发布。<br />当人们在社会生活中形成信念时，他们常常会根据自己预期“大多数人”的想法来调整自己的思考。尽管先前的研究已经证明了这些推断的重要性，但学者们尚未探讨谁最能代表……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261495117?af=R
+
+- [Information Systems Research] (35 分)
+    时间: 2026-10-28 07:00:00+00:00
+    标题: Enhancing AI Use: How Complementary System Information Drives Delegation Frequency and Effectiveness
+    标题: 增强AI使用：互补系统信息如何提升委托频率与效果
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，预出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1330?af=R
+
+- [International Journal of Press/Politics] (3 分)
+    时间: 2026-10-20 11:50:37+00:00
+    标题: A Weight-Inclusive Approach in High School Nutrition Education: An Exploratory Mixed-Methods Study
+    标题: 高中营养教育中的体重包容性方法：一项探索性混合方法研究
+    摘要: Health Promotion Practice, Ahead of Print. <br />Nutrition education in schools is a key health promotion strategy that has the potential to influence lifelong relationships with food, bodies, and health. However, many programs in U.S. schools are taught from a weight-centric approach that positions ...
+    摘要: 健康促进实践，提前在线发布。<br />学校营养教育是一项关键的健康促进策略，有潜力影响人一生与食物、身体和健康的关系。然而，美国学校的许多项目采用以体重为中心的方法来教授，这种方法将……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261494608?af=R
+
+- [International Journal of Press/Politics] (3 分)
+    时间: 2026-10-16 12:04:37+00:00
+    标题: Integrating Community Health Workers for Genetic Cancer Screening in Primary Care for Latina Women
+    标题: 将社区卫生工作者纳入初级保健中的遗传性癌症筛查以服务拉丁裔女性
+    摘要: Health Promotion Practice, Ahead of Print. <br />Community health workers (CHWs) can identify patients who may benefit from genetic testing as part of comprehensive cancer prevention for Latina women. A community-university partnership developed and implemented a comprehensive cancer prevention program ...
+    摘要: 健康促进实践，提前在线发布。<br />社区卫生工作者（CHWs）能够识别可能从基因检测中获益的患者，作为拉丁裔女性全面癌症预防的一部分。一个社区与大学的合作项目开发并实施了一项全面的癌症预防计划……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261493094?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Cover Image
+    标题: 封面图片
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 11, Page C1-C1, November 2026.
+    摘要: 《信息科学与技术协会杂志》，第77卷，第11期，第C1-C1页，2026年11月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70129?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (0 分)
+    时间: NaT
+    标题: Issue Information
+    标题: 问题信息
+    摘要: Journal of the Association for Information Science and Technology, Volume 77, Issue 11, Page 1373-1374, November 2026.
+    摘要: 《信息科学与技术协会杂志》，第77卷，第11期，第1373-1374页，2026年11月。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70128?af=R
