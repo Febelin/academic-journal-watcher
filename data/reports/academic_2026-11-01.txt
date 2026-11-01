@@ -1,0 +1,103 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-11-01 19:18
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [Communication Research] (82 分)
+    时间: 2026-10-26 06:11:58+00:00
+    标题: Testing Hypotheses From the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages From Parler
+    标题: 检验网络仇恨的社会认可理论假设：对Parler平台1.1亿条消息的分析
+    摘要: Communication Research, Ahead of Print. <br />We examined how social approval motivates online hate via the social approval theory, which argues social approval signals on hate messages predict (1) more hate speech, and (2) more toxicity. Using 110 million messages from Parler (2018–2021), we ...
+    摘要: 《传播研究》，预先在线发布。  
+我们基于社会认可理论考察了社会认可如何激发网络仇恨，该理论认为仇恨信息上的社会认可信号预示着（1）更多仇恨言论，以及（2）更多毒性内容。我们使用了来自Parler的1.1亿条信息（2018-2021年），我们……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261494874?af=R
+
+- [Communication Research] (72 分)
+    时间: 2026-10-27 07:18:01+00:00
+    标题: Do Political Conversations Persuade or Polarize? Evidence From a Real-Time Randomized Experiment
+    标题: 政治对话是说服还是极化？来自实时随机实验的证据
+    摘要: Communication Research, Ahead of Print. <br />Political conversations across lines of disagreement are central to democracy. While some individuals approach them as opportunities to learn, others treat them as battles to be won. Theory suggests these contrasting motivations may shape how individuals ...
+    摘要: 传播研究，提前在线发布。<br />跨越分歧的政治对话是民主的核心。有些人将其视为学习的机会，而另一些人则将其视为必须赢得的战斗。理论表明，这些截然不同的动机可能塑造个体如何……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261498263?af=R
+
+- [New Media & Society] (42 分)
+    时间: 2026-10-28 05:41:19+00:00
+    标题: Practicing love with algorithms: How online communities narrate and make sense of human–AI intimacy
+    标题: 与算法共练爱：在线社区如何叙述和理解人机亲密关系
+    摘要: New Media & Society, Ahead of Print. <br />As artificial intelligence (AI) becomes embedded in everyday life, emotionally intimate interactions with AI companions are becoming increasingly visible. Yet prior research has focused mainly on individual experiences, leaving limited understanding of ...
+    摘要: 《新媒体与社会》，提前在线出版。  
+随着人工智能（AI）融入日常生活，与AI伴侣之间情感亲密的互动正变得越来越常见。然而，既有研究主要关注个体体验，对……的理解仍然有限。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261496596?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (35 分)
+    时间: 2026-10-22 12:47:58+00:00
+    标题: The managed sisterhood: Gendered labor and intimacy in Chinese fashion influencer industry
+    标题: 有管理的姐妹情谊：中国时尚网红产业中的性别化劳动与亲密关系
+    摘要: New Media & Society, Ahead of Print. <br />As China’s leading multi-channel network (MCN) institutions become increasingly industrialized and bureaucratic, their operations are paradoxically characterized by intensified emotional dynamics. Drawing on ethnographic research within a women-dominated ...
+    摘要: 《新媒体与社会》，预出版。<br />随着中国领先的多频道网络（MCN）机构日益工业化和官僚化，其运营却悖论性地呈现出情感动态加剧的特征。基于在一家女性主导的……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261493399?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (35 分)
+    时间: 2026-10-30 07:00:00+00:00
+    标题: Catch Me if You Can! The Economic Analysis of Geofencing
+    标题: 抓得住我吗？地理围栏的经济学分析
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，预出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.0411?af=R
+
+- [Information Systems Research] (15 分)
+    时间: 2026-10-29 07:00:00+00:00
+    标题: Improving Competitiveness: A Freelancer-Centric Approach for Recommending Reskilling Strategies
+    标题: 提升竞争力：以自由职业者为中心的重塑技能策略推荐方法
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，预出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0790?af=R
+
+- [American Sociological Review] (12 分)
+    时间: 2026-10-27 04:27:00+00:00
+    标题: Simply a Sign of the Season? Christmas Trees as Cultural Ciphers in Local Government Management of Diversity
+    标题: 仅仅是季节的标志吗？圣诞树作为地方政府多样性管理中的文化密码
+    摘要: American Sociological Review, Ahead of Print. <br />How do local governments symbolically manage the diversity of their residents? Drawing from an original representative sample of local government officials, we use a novel survey experiment with open-ended survey responses to examine preferences for ...
+    摘要: 美国社会学评论，提前在线发布。<br />地方政府如何象征性地管理其居民的多样性？基于一个具有代表性的地方政府官员原始样本，我们采用了一种新颖的调查实验，结合开放式调查回答，来考察对于……的偏好。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261486015?af=R
+
+- [American Sociological Review] (8 分)
+    时间: 2026-10-30 10:36:57+00:00
+    标题: Who Benefits from Citizenship? Varying Effects of Naturalization Decisions in the Early-Twentieth-Century United States
+    标题: 谁从公民身份中受益？20世纪初美国入籍决定的不同影响
+    摘要: American Sociological Review, Ahead of Print. <br />Citizenship acquisition is widely viewed as a mechanism for improving economic outcomes, yet little is known about whether its benefits are distributed evenly. This article examines the varied returns to naturalization in the early-twentieth-century ...
+    摘要: 《美国社会学评论》，提前在线出版。  
+公民身份的获取被广泛视为改善经济状况的一种机制，但关于其益处是否均衡分配，人们知之甚少。本文探讨了二十世纪初入籍归化的不同回报……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261489725?af=R
+
+- [International Journal of Press/Politics] (8 分)
+    时间: 2026-10-30 07:18:46+00:00
+    标题: “There’s Never a Time Where I Felt Like They Wasn’t Helping Me”: Trauma-Informed Approaches in a Music-Based Creative Youth Development Program
+    标题: “我从未觉得他们没有帮助我”：音乐类创意青年发展项目中的创伤知情方法
+    摘要: Health Promotion Practice, Ahead of Print. <br />Creative youth development (CYD) programs, which bridge artistic expression with positive youth development, serve youth from diverse backgrounds in community settings. Trauma-informed approaches (TIA), most commonly applied in clinical settings, offer a ...
+    摘要: 健康促进实践，提前在线发布。<br />创意青年发展（CYD）项目将艺术表达与积极的青年发展相结合，在社区环境中服务于来自不同背景的青年。创伤知情方法（TIA）最常用于临床环境，提供了一种……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261495006?af=R
+
+- [American Sociological Review] (8 分)
+    时间: 2026-10-27 04:29:30+00:00
+    标题: Incentivizing Equality? How Work-Family Policies Affect Parenthood Penalties in 27 Countries
+    标题: 激励平等？工作家庭政策如何影响27个国家的育儿惩罚
+    摘要: American Sociological Review, Ahead of Print. <br />Work-family policies are theorized to shape the division of paid labor after parenthood, but recent studies have cast doubt on their importance. Leveraging harmonized longitudinal data spanning 27 countries and an analytic focus on couples and couple ...
+    摘要: 《美国社会学评论》，提前在线出版。<br />理论与认为，工作—家庭政策会塑造为人父母后的有偿劳动分工，但近期研究对其重要性提出了质疑。利用涵盖27个国家的统一纵向数据，并将分析重点放在夫妻和伴侣……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00031224261489790?af=R
+
+- [International Journal of Press/Politics] (8 分)
+    时间: 2026-10-29 11:22:23+00:00
+    标题: An Assessment of Knowledge and Self-Efficacy Following Question, Persuade, Refer Gatekeeper Training in Alabama
+    标题: 阿拉巴马州提问、劝说、转介守门人培训后的知识与自我效能评估
+    摘要: Health Promotion Practice, Ahead of Print. <br />Suicide remains a serious public health concern and is on the rise in some populations. The goal of this research was to examine the attitudes, beliefs, and perceived self-efficacy of those who participated in Question, Persuade, Refer (QPR) Gatekeeper ...
+    摘要: 健康促进实践，提前在线发布。自杀仍是一个严重的公共卫生问题，在某些人群中呈上升趋势。本研究旨在考察参加提问、劝说、转介（QPR）守门人培训的人员的态度、信念及感知自我效能……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261500161?af=R
+
+- [International Journal of Press/Politics] (8 分)
+    时间: 2026-10-29 11:23:46+00:00
+    标题: Improving Access to Sexual Health Information and Resources Among South Asian International Students: A Reflexive Thematic Analysis at a Midwestern U.S. University
+    标题: 改善南亚国际学生获取性健康信息与资源的途径：美国中西部一所大学的反思性主题分析
+    摘要: Health Promotion Practice, Ahead of Print. <br />South Asian international students may encounter multiple barriers when seeking sexual health information and services on U.S. college campuses, including cultural stigma, language barriers, and limited access to culturally responsive resources. These ...
+    摘要: 健康促进实践，提前在线发布。<br />南亚国际学生在美国大学校园寻求性健康信息和服务时，可能遭遇多重障碍，包括文化污名、语言障碍以及获取文化敏感资源的机会有限。这些……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/15248399261500648?af=R
