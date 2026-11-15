@@ -1,0 +1,100 @@
+学术期刊监控日报（Academic Journal Watcher）
+生成时间：2026-11-15 20:05
+
+【个性化推荐】根据你的研究兴趣挑出的最新学术文章：
+
+- [New Media & Society] (72 分)
+    时间: 2026-11-02 07:24:18+00:00
+    标题: Ambivalence and antagonism: The intertwinement of gossiping and public shaming on social media
+    标题: 矛盾心理与对抗：社交媒体上八卦与公开羞辱的交织
+    摘要: New Media & Society, Ahead of Print. <br />The vernacular practices of public shaming and gossiping on social media function both as entertainment and as disciplinary mechanisms. This article investigates two Finnish subreddits on Reddit, where gossiping and public shaming practices are closely ...
+    摘要: 《新媒体与社会》预出版。<br />社交媒体上公开羞辱和八卦的本土实践既作为娱乐方式，也作为规训机制发挥作用。本文调查了Reddit上的两个芬兰子版块，其中八卦和公开羞辱的实践紧密相连……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261500889?ai=pih&mi=3fnskx&af=R
+
+- [Information Systems Research] (65 分)
+    时间: 2026-11-06 08:00:00+00:00
+    标题: From Data–Model Fit to Model–World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence
+    标题: 从数据-模型拟合到模型-世界拟合：一个将领域知识融入人工智能的框架
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 《信息系统研究》，提前在线出版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0031?af=R
+
+- [New Media & Society] (58 分)
+    时间: 2026-11-02 04:45:52+00:00
+    标题: Paid, but not a partner: Monetization without standing in Facebook’s Performance Bonus Program
+    标题: 付费，但非合作伙伴：Facebook绩效奖励计划中的变现与地位缺失
+    摘要: New Media & Society, Ahead of Print. <br />Platform revenue-sharing programs both pay and govern creators. Drawing on interviews with 18 participants in Facebook’s Performance Bonus Program (PBP) and the author’s own participation, this study examines how monetization reshaped creators’ platform ...
+    摘要: 《新媒体与社会》，提前在线出版。<br />平台收入分成项目既向创作者支付报酬，也对其进行治理。本研究基于对Facebook绩效奖金计划（PBP）18名参与者的访谈以及作者自身的参与经历，考察了货币化如何重塑创作者的平台……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261498621?ai=pih&mi=3fnskx&af=R
+
+- [New Media & Society] (35 分)
+    时间: 2026-11-02 07:22:30+00:00
+    标题: Fuck You, Pay Me: Payment apps, review platforms, and ambivalent resistance in the influencer industry
+    标题: 去你的，付钱吧：影响者行业中的支付应用、评论平台与矛盾抵抗
+    摘要: New Media & Society, Ahead of Print. <br />This article critically examines emerging intermediaries in the influencer industry that aggregate anonymous reviews of brands and allow influencers to report how much they were paid. Turning to four intermediaries (Fuck You Pay Me, Willa, Hashtag Pay Me, ...
+    摘要: 《新媒体与社会》，提前在线出版。<br />本文批判性地考察了网红行业中新兴的中介机构，这些机构汇集了对品牌的匿名评价，并允许网红报告他们获得的报酬。文章聚焦于四个中介平台（Fuck You Pay Me、Willa、Hashtag Pay Me……）
+    链接: https://journals.sagepub.com/doi/abs/10.1177/14614448261493408?ai=pih&mi=3fnskx&af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (35 分)
+    时间: NaT
+    标题: Data‐driven or structure‐driven: Toward a process model of data behavior in humanities research
+    标题: 数据驱动还是结构驱动：迈向人文学科研究中数据行为的过程模型
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70122?af=R
+
+- [Information Systems Research] (35 分)
+    时间: 2026-11-06 08:00:00+00:00
+    标题: Attention Trap? How Visual Motion Shapes Children’s Screen Time and Engagement on Video Platforms
+    标题: 注意力陷阱？视觉运动如何塑造儿童在视频平台上的屏幕时间与参与度
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.0718?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (35 分)
+    时间: NaT
+    标题: Making information behavior explicit in situation awareness
+    标题: 在态势感知中明确信息行为
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70140?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (35 分)
+    时间: NaT
+    标题: Migration as interacting transitions: Rethinking information behavior during migration
+    标题: 作为交互过渡的迁移：重新思考迁移过程中的信息行为
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70138?af=R
+
+- [Communication Research] (35 分)
+    时间: 2026-11-09 06:29:11+00:00
+    标题: Too Much, Too Little, or Just Right? Identity Processes and Motivations Explain Everyday Evaluations of Time Spent on Social Media
+    标题: 太多、太少还是刚刚好？身份认同过程与动机解释日常对社交媒体使用时间的评价
+    摘要: Communication Research, Ahead of Print. <br />Emerging adults use social media—and evaluate their use—while navigating the critical task of identity development. We investigate how evaluations of time spent on social media are associated with (a) individual differences in identity development and (b) ...
+    摘要: 《传播研究》，预出版。<br />新兴成年人在应对身份发展这一关键任务的同时，使用社交媒体并对其使用情况进行评估。我们探讨了对社交媒体使用时间的评估如何与（a）身份发展中的个体差异以及（b）……相关联。
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261497370?af=R
+
+- [Journal of the Association for Information Science & Technology (JASIST)] (25 分)
+    时间: NaT
+    标题: Redundant attention fails to replicate as sustained engagement: Information quality in early review cohorts and long‐run popularity of books
+    标题: 冗余注意力无法作为持续参与得到复现：早期评论队列的信息质量与书籍的长期流行度
+    摘要: Journal of the Association for Information Science and Technology, EarlyView.
+    摘要: 《信息科学与技术协会杂志》，早期预览版。
+    链接: https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70130?af=R
+
+- [Information Systems Research] (25 分)
+    时间: 2026-11-02 08:00:00+00:00
+    标题: Unlocking Profits in Generative AI: The Impact of AI Adaptive Learning on Freemium Strategy
+    标题: 释放生成式AI的盈利潜力：AI自适应学习对免费增值策略的影响
+    摘要: Information Systems Research, Ahead of Print. <br />
+    摘要: 信息系统研究，预印版。
+    链接: https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.2140?af=R
+
+- [Communication Research] (18 分)
+    时间: 2026-11-09 06:32:31+00:00
+    标题: Seeing and Hearing YouTube: Linking Media Design to Children’s Attention Span and Viewing Control
+    标题: 观看与聆听YouTube：将媒体设计与儿童注意力时长及观看控制相联系
+    摘要: Communication Research, Ahead of Print. <br />To examine how audiovisual characteristics of YouTube content are associated with children’s attention span and viewing control, we conducted a two-wave longitudinal survey in 2023 and 2024. The final analytical sample consisted of 195 Korean parents of ...
+    摘要: 《传播研究》，提前在线发布。<br />为考察YouTube内容的视听特征与儿童注意力持续时间和观看控制之间的关联，我们于2023年和2024年开展了一项两波纵向调查。最终分析样本由195名韩国父母组成……
+    链接: https://journals.sagepub.com/doi/abs/10.1177/00936502261499806?af=R
